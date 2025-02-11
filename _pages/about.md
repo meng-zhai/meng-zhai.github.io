@@ -15,7 +15,7 @@ I am leading an NSFC Youth Student Research Project (for PhD students) / 国家�
 
 **Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. Please feel free to contact me via Email (zhaim@mail.nankai.edu.cn).
 
-You can find my Curriculum Vitae and Business Card here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf); [Business Card](../images/Business_Card.jpg).
+You can find my Curriculum Vitae and Business Card here: [Curriculum Vitae](meng-zhai.github.io/assets/Curriculum_Vitae.pdf); [Business Card](meng-zhai.github.io/images/Business_Card.jpg).
 
 
 A data-driven personal website
