@@ -15,15 +15,18 @@ I am leading an NSFC Youth Student Research Project (for PhD students) / 国家�
 
 **Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. Please feel free to contact me via Email (zhaim@mail.nankai.edu.cn).
 
-You can find my Curriculum Vitae and Business Card here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf); [Business Card](../files/Business_Card.jpg).
+You can find my Curriculum Vitae and Business Card here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf); [Business Card](/files/Business_Card.jpg).
 
-
-
-Awards & Honors
 ======
+Education
+------
+
+======
+Awards & Honors
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
-
+======
 Academic Service
 ------
 1. For site content, there is one markdown file for each type
