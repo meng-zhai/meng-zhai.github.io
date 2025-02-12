@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+**College of Artificial Intelligence, Nankai University (Tianjin, China)**      
+- Ph.D. Candidate in Artificial Intelligence, 09/2021 - 06/2026 (expected)    
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**College of Communication Engineering, Jilin University (Changchun, China)**   
+- B.Eng. in Automation, 09/2017 - 06/2021      
+- GPA: 3.74/4.0, Ranking: 8/161 **(Top 5%)**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+--------
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Project
+- Register a GitHub account if you don't have one and confirm your e-mail
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+--------
+
+# Awards & Honors
+- Register a GitHub account if you don't have one and confirm your e-mail
+
+--------
+
+# Skills
+- Skill 1
+- Skill 2
+  - Sub-skill 2.1
+  - Sub-skill 2.2
+  - Sub-skill 2.3
+- Skill 3
+
+--------
+
+# Academic Service
+- For site content, there is one markdown file for each type
+    
+--------
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
