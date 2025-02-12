@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3333902a-bda2-4d1d-b045-918223c78cbc)---
+---
 permalink: /
 title: "Meng Zhai / 翟猛"
 author_profile: true
