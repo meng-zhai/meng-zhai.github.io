@@ -23,10 +23,10 @@ redirect_from:
 -----
 
 # 代表性科研成果：
-[1]	Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题)    
-[2]	Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题)    
-[3]	Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题)   
-[4]	Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制)    
+-	Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题)    
+-	Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题)    
+- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题)   
+-	Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制)    
 
 -----
 
