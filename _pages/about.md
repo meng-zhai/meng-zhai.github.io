@@ -19,11 +19,14 @@ You can find my Curriculum Vitae and Business Card here: [Curriculum Vitae](../a
 
 --------
 # Education
-**College of Artificial Intelligence, Nankai University (Tianjin, China)**   09/2021 - 06/2026 (expected)
+**College of Artificial Intelligence, Nankai University (Tianjin, China)**   09/2021 - 06/2026 (expected)
+
 Ph.D. Candidate in Artificial Intelligence
 
-**College of Communication Engineering, Jilin University (Changchun, China)**   09/2017 - 06/2021
+**College of Communication Engineering, Jilin University (Changchun, China)**   09/2017 - 06/2021
+
 B.Eng. in Automation
+
 GPA: 3.74/4.0, Ranking: 8/161 (Top 5%)
 
 --------
