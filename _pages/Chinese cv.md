@@ -9,10 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+# 概述
+目前，我是[南开大学人工智能学院](https://ai.nankai.edu.cn/)的一名在读博士生，同时隶属于南开大学的机器人与信息自动化研究所（IRAIS）以及[南开大学深圳研究院](https://nkszri.nankai.edu.cn/)的智能技术与机器人系统研究院，所在团队学术带头人为方勇纯教授（长江学者、国家杰青）。我非常荣幸能够在国内领先的[欠驱动机器人实验室](https://url.nankai.edu.cn/)开展学习研究，师从孙宁教授（青年长江学者）。
+
+**研究兴趣：** <span style="color: red;">我的研究聚焦于欠驱动机器人系统和悬吊式微低重力模拟系统。</span> 我特别关注开发创新的规划和非线性/智能控制策略，以应对欠驱动（独立控制输入少于系统自由度，即以“少”控“多”）及复杂动力学带来的挑战。此外，我致力于研究悬吊式微低重力模拟系统，为空间机器人/航天器提供受控环境下的测试与验证。我的目标是通过设计有效且鲁棒的算法，提升这些系统的稳/暂态性能、自适应性、智能性和自主性。
+
+**未来机会：** 我预计于2026年6月毕业，正在寻求学术界和工业界的工作机会。您可以通过[名片](../files/名片.jpg)查看我的联系方式，并下载我的[简历](../files/翟猛-个人简历.pdf)。如有任何问题，欢迎随时与我联系。
+
+邮箱：zhaim@mail.nankai.edu.cn
+
+------
+
 # 教育背景
 **南开大学 &ensp;&ensp;&ensp; 工学博士 &ensp;&ensp;&ensp; 专业：人工智能（推免直攻博） &ensp;&ensp;&ensp; 2021.09 – 2026.06（预计）**
 - 导 &ensp;&ensp;&ensp; 师：孙宁 教授（教育部青年长江学者）    
-- 研究方向：欠驱动机器人规划与非线性/智能控制、悬吊微低重力模拟系统    
+- 研究方向：欠驱动机器人规划与非线性/智能控制、悬吊式微低重力模拟系统    
 - 主修课程：智能预测控制、基于李雅普诺夫方法的非线性控制、自适应控制、建模与辨识 等    
 
 **吉林大学 &ensp;&ensp;&ensp; 工学学士 &ensp;&ensp;&ensp; 专业：自动化（本科） &ensp;&ensp;&ensp; 2017.09 – 2021.06**   
@@ -48,7 +59,7 @@ redirect_from:
 
 # 学术兼职/服务
 -	自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
--	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人    
+-	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人     
 
 ------
 
