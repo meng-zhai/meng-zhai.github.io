@@ -14,7 +14,7 @@ redirect_from:
 - Ph.D. Candidate in Artificial Intelligence, 09/2021 - 06/2026 (expected)    
 
 **College of Communication Engineering, Jilin University (Changchun, China)**   
-- B.Eng. in Automation, 09/2017 - 06/2021      
+- B.S. degree in Automation, 09/2017 - 06/2021      
 - GPA: 3.74/4.0, Ranking: 8/161 (Top 5%)
 
 ------
