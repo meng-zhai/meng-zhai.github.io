@@ -14,7 +14,7 @@ redirect_from:
 
 **研究兴趣：** <span style="color: red;">我的研究聚焦于欠驱动机器人系统和悬吊式微低重力模拟系统。</span> 我特别关注开发创新的规划和非线性/智能控制策略，以应对具有欠驱动（独立控制输入少于系统自由度，即以“少”控“多”）及复杂动力学特性的机器人所带来的挑战。此外，我致力于研究悬吊式微低重力模拟系统，为空间机器人/航天器提供受控环境下的测试与验证。我的目标是通过设计有效且鲁棒的算法，提升这些系统的稳/暂态性能、自适应性、智能性和自主性。
 
-**未来机会：** 我预计于2026年6月毕业，正在寻求学术界和工业界的工作机会。您可以通过[名片](../files/名片.jpg)查看我的联系方式，并下载我的[简历](../files/翟猛-个人简历.pdf)。如有任何问题，欢迎随时与我联系。
+**未来机会：** 我预计于2026年6月毕业，正在寻求学术界和工业界的工作机会。您可以通过[名片](../files/名片.jpg)查看我的联系方式，并下载我的[简历](../files/翟猛-个人简历.pdf)。如有任何问题或合作意向，欢迎随时与我联系，期待与您进一步沟通！
 
 邮箱：zhaim@mail.nankai.edu.cn
 
@@ -42,24 +42,36 @@ redirect_from:
 ------
 
 # 代表性科研成果
-- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题)    
-- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题)    
-- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题)   
-- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制)    
+- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题) [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
+- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题) [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
+- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题) [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
+- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制) [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
+
+------
+
+# 部分授权专利
+- 孙宁(导师)，翟猛，等，基于扩展卡尔曼滤波的吊车系统非线性模型预测控制算法，中国发明专利，申请号/专利号：ZL202410176342.2，已授权。(保证塔式起重机的多重输入输出约束) [[证书]](../assets/certificates/2024101763422-发明专利证书.pdf)   
+- 孙宁(导师)，翟猛，等，一种起重机控制方法、系统、介质、设备及产品，中国发明专利，申请号/专利号：ZL202410674477.1，已授权。(设计预测安全滤波器，过滤优化控制输入) [[证书]](../assets/certificates/2024106744771-发明专利证书.pdf)      
+- 段彬(指导教师)，翟猛，等，一种基于径向磁场的涡流制动规律测定装置及测定方法，中国发明专利，专利号：ZL202010547822.7，已授权。(利用涡流制动效应测定磁感应强度) [[证书]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)          
 
 ------
 
 # 部分荣誉与奖励
-- 2023年，全国集群智能与协同控制大会最佳张贴论文奖 **（Best Poster Paper Award）**   
-- 2022年，华北五省（市、自治区）大学生机器人大赛决赛一等奖   
-- 2021年，吉林大学优秀毕业论文（设计）   
-- 2019年，全国大学生物理学术竞赛二等奖（队长）    
+- 2023年，第七届全国集群智能与协同控制大会**最佳张贴论文奖（Best Poster Paper Award）** [[证书]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)        
+- 2023年，南开大学研究生三好学生 [[证书]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)       
+- 2022年，华北五省（市、自治区）大学生机器人大赛决赛一等奖 [[证书]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)       
+- 2022年，南开大学公能奖学金一等奖、研究生优秀学生    
+- 2021年，南开大学研究生推免奖学金、悟空投资奖学金    
+- 2021年，吉林大学优秀毕业论文（设计）[[证书]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)       
+- 2019年，全国大学生物理学术竞赛二等奖（队长） [[证书]](../assets/certificates/CUPT国赛二等奖.pdf)      
+- 2023年，第42界中国控制会议CCC优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)       
+- 2022年，IEEE RCAR 2022会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)        
 
 ------
 
 # 学术兼职/服务
 -	自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
--	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人    
+-	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人 
 
 ------
 
