@@ -57,7 +57,7 @@ redirect_from:
 ------
 
 # 部分荣誉与奖励
-- 2023年，第七届全国集群智能与协同控制大会**最佳张贴论文奖（Best Poster Paper Award）** [[证书]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)        
+- 2023年，第七届全国集群智能与协同控制大会**最佳张贴论文奖（Best Poster Paper Award）** [[证书]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf)        
 - 2023年，南开大学研究生三好学生 [[证书]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)       
 - 2022年，华北五省（市、自治区）大学生机器人大赛决赛一等奖 [[证书]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)       
 - 2022年，南开大学公能奖学金一等奖、研究生优秀学生    
@@ -71,7 +71,7 @@ redirect_from:
 
 # 学术兼职/服务
 -	自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
--	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人 
+-	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人
 
 ------
 
