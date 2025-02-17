@@ -70,8 +70,8 @@ redirect_from:
 ------
 
 # 学术兼职/服务
--	自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
--	多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics等）的独立审稿人
+- 自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
+- 多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics、ICRA、ACC、CDC 等）的独立审稿人  
 
 ------
 
