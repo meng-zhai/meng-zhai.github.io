@@ -64,14 +64,14 @@ redirect_from:
 - 2021年，南开大学研究生推免奖学金、悟空投资奖学金    
 - 2021年，吉林大学优秀毕业论文（设计）[[证书]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)       
 - 2019年，全国大学生物理学术竞赛二等奖（队长） [[证书]](../assets/certificates/CUPT国赛二等奖.pdf)      
-- 2023年，第42界中国控制会议CCC优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)       
+- 2023年，第42界中国控制会议(CCC 2023)优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)       
 - 2022年，IEEE RCAR 2022会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)        
 
 ------
 
 # 学术兼职/服务
 - 自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
-- 多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics、ICRA、ACC、CDC 等）的独立审稿人  
+- 多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics、ICRA、ACC、CDC 等）的独立审稿人    
 
 ------
 
