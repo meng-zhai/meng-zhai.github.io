@@ -24,12 +24,12 @@ redirect_from:
 ------
 
 # Projects Leadership
-1. Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario
-(**National Natural Science Foundation of China (NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**)
+1. Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario      
+(**National Natural Science Foundation of China (NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**)      
 Introduction: This project aims to achieve high-fidelity simulation of spacecraft motion in micro-low gravity environments on the ground by using suspension systems. Targeted **system design, modeling, and control** methods are developed. The outcomes will be practically implemented at the China Academy of Space Technology (CAST) 518 Institute, which is expected to contribute to ground validation for extraterrestrial exploration missions in China.
 
-2. Research on Intelligent Predictive Control and Safety Trajectory Planning for Underactuated Robots
-(Ph.D. Dissertation Research)
+2. Research on Intelligent Predictive Control and Safety Trajectory Planning for Underactuated Robots      
+(Ph.D. Dissertation Research)      
 Introduction: This research aims to address the common challenges in various underactuated robotic systems, where the number of independent control inputs is fewer than the system’s degrees of freedom. By analyzing and utilizing their dynamic structural characteristics and task demands, this research proposes **a class of unified control and planning methods** to enhance steady/transient performance, transient performance, safety, reliability, robustness, and intelligence in underactuated robotic systems.
 
 ------
@@ -52,12 +52,12 @@ Introduction: This research aims to address the common challenges in various und
 # Selected Awards & Honors
 - 2023, **Best Poster Paper Award**, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC) [[Certificate]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf)  
 - 2023, Merit Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)     
-- 2022, First Prize, Final of the North China Five Provinces (Municipalities and Autonomous Regions) University Student Robotics Competition [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
+- 2022, First Prize, Robot Competition for College Student in Five Provinces (Municipalities and Autonomous Regions) of North China [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
 - 2022, First Prize Gongneng Scholarship & Outstanding Graduate Student, Nankai University 
 - 2021, Nankai University Graduate Admission Scholarship & Wukong Investment Scholarship  
 - 2021, Outstanding Graduation Thesis (Design), Jilin University [[Certificate]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)  
 - 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf)  
-- 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)  
+- 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)  
 - 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)  
 
 ------
