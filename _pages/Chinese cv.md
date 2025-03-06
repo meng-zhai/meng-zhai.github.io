@@ -70,6 +70,7 @@ redirect_from:
 ------
 
 # 学术兼职/服务
+- 国际电气电子工程师学会（Institute of Electrical and Electronics Engineers，简称IEEE）研究生学生会员  
 - 自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
 - 多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics、ICRA、ACC、CDC 等）的独立审稿人    
 
