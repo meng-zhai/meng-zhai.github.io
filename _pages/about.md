@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Meng Zhai / 翟猛"
 author_profile: true
