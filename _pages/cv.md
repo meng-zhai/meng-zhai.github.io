@@ -65,7 +65,7 @@ redirect_from:
 # Academic Services
 - Graduate Student Member, Institute of Electrical and Electronics Engineers (IEEE) [[Certificate]](../assets/certificates/IEEE学生会员证书.pdf)  
 - Student Committee Member, Autonomous Robotic Technology Seminar (ARTS)  
-- Independent Reviewer for multiple journals and conferences: IEEE Transactions on Cybernetics, IEEE Systems Journal, Nonlinear Dynamics, ICRA, ACC, CDC, ...
+- Independent Reviewer for multiple journals and conferences: IEEE Transactions on Cybernetics, IEEE Systems Journal, Nonlinear Dynamics, Information Sciences, ICRA, ACC, CDC, ...
     
 ------
   
