@@ -34,7 +34,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="zhaiUnderactuatedMechanicalSystems2023.gif" alt="GIF Description" class="paper-gif">
+    <img src="zhaiUnderactuatedMechanicalSystems2023.jpg" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -73,11 +73,24 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
 </div>
 
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="zhaiUnderactuatedMechanicalSystems2023.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制</p>
+    <p class="authors"> <b>翟猛</b>, 王奕轩, 侯玮杰, 吴庆祥, 孙宁</p>
+    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, “星表作业机器人”专题, 二审中  </p>
+  </div>
+</div>
+
 ## Conference Papers
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="zhaiOscillationsDampingControl2023.jpg" alt="GIF Description" class="paper-gif">
+    <img src="仿真飞跃.mp4" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
