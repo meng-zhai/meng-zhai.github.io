@@ -1,19 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-
-<head>
-  <link rel="stylesheet" href="_pages/styles.css">
-</head>
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=g91ocA8AAAAJ&hl">my Google Scholar profile</a>.</u>.
+
+
+<head>
+  <link rel="stylesheet" href="_pages/styles.css">
+</head>
 
 <div class="paper-container">
   <!-- Left side: GIF -->
