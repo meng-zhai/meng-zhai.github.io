@@ -16,44 +16,74 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <link rel="stylesheet" href="styles.css">
 </head>
 
+## Journal Papers
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="images/foo-bar-identity-th.jpg" alt="GIF Description" class="paper-gif">
+    <img src="zhaiExtendedKalmanFilteringBased2025.jpg" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">Robotic In-Hand Manipulation for Large-Range and Precise Object Movement: The RGMC Champion Solution</p>
-    <p class="authors"> <b>M. Yu</b>, Y. Jiang, C. Chen, Y. Jia, and X. Li </p>
-    <p class="journal"> Submitted to IEEE Robotics and Automation Letters, 2024  </p>
-    <p class="url"> [<a href="https://arxiv.org/abs/2502.07472">Paper</a>] [<a href="https://rgmc-xl-team.github.io/ingrasp_manipulation/">Website</a>] </p>
+    <p class="paper-title">Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance</p>
+    <p class="authors"> <b>Meng Zhai</b>, Tong Yang, Qingxiang Wu, Shudong Guo, Ruiping Pang, and Ning Sun </p>
+    <p class="journal"> <b>IEEE Transactions on Cybernetics</b>, vol. 55, no. 1, pp. 369-382, Jan. 2025  </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633">Paper</a>] </p>
   </div>
 </div>
 
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="files/publications/yu2024generalizable_small.gif" alt="GIF Description" class="paper-gif">
+    <img src="zhaiUnderactuatedMechanicalSystems2023.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments</p>
-    <p class="authors"> <b>M. Yu</b>, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li </p>
-    <p class="journal"> <b>The International Journal of Robotics Research</b>, 2024  </p>
-    <p class="url"> [<a href="https://arxiv.org/abs/2310.09899">Paper</a>] [<a href="https://mingrui-yu.github.io/DLO_planning_2/">Website</a>] </p>
+    <p class="paper-title">Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach</p>
+    <p class="authors"> <b>Meng Zhai</b>, Ning Sun, Tong Yang, and Yongchun Fang </p>
+    <p class="journal"> <b>IEEE/ASME Transactions on Mechatronics</b>, vol. 28, no. 3, pp. 1359-1371, June. 2023  </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10001761">Paper</a>] </p>
   </div>
 </div>
 
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="files/publications/DLO_review_16_9.jpg" alt="GIF Description" class="paper-gif">
+    <img src="zhaiAdaptiveFuzzyControl2025.jpg" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">面向线状柔性物体的机器人操作研究进展与展望</p>
-    <p class="authors"> <b>于铭瑞</b>, 李翔 </p>
-    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, 2024  </p>
-    <p class="url"> [<a href="https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.240139">Paper</a>] </p>
+    <p class="paper-title">Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states</p>
+    <p class="authors"> <b>Meng Zhai</b>, Shuzhen Diao, Tong Yang, Qingxiang Wu, Yongchun Fang, and Ning Sun </p>
+    <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 1566-1578, 2025  </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242">Paper</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="zhaiObserverbasedAdaptiveFuzzy2022.jpg" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks</p>
+    <p class="authors"> <b>Meng Zhai</b>, Tong Yang, Ning Sun, and Yongchun Fang </p>
+    <p class="journal"> <b>Mechanism and Machine Theory</b>, vol. 175, p. 104927, Sep. 2022  </p>
+    <p class="url"> [<a href="https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859">Paper</a>] </p>
+  </div>
+</div>
+
+## Conference Papers
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="zhaiOscillationsDampingControl2023.jpg" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Oscillations damping control of variable cable length pendulum systems by gin adaptive MPC</p>
+    <p class="authors"> <b>Meng Zhai</b>, Tong Yang, and Ning Sun </p>
+    <p class="journal"> IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization <b>(SAMCON)</b>, Southeast University, China, Mar. 24-26, 2023 </p>
+    <p class="url"> [<a href="Zhai 等 - Oscillations Damping Control of Variable Cable Len.pdf">Paper</a>] </p>
   </div>
 </div>
