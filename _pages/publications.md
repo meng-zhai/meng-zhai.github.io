@@ -76,7 +76,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="仿真飞跃.mp4" alt="GIF Description" class="paper-gif">
+    <img src="仿真飞跃.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
