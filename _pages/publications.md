@@ -81,7 +81,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">Oscillations damping control of variable cable length pendulum systems by gin adaptive MPC</p>
+    <p class="paper-title">Oscillations damping control of variable cable length pendulum systems by gain adaptive MPC</p>
     <p class="authors"> <b>Meng Zhai</b>, Tong Yang, and Ning Sun </p>
     <p class="journal"> IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization <b>(SAMCON)</b>, Southeast University, China, Mar. 24-26, 2023 </p>
     <p class="url"> [<a href="Zhai 等 - Oscillations Damping Control of Variable Cable Len.pdf">Paper</a>] </p>
