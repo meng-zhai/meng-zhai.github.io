@@ -42,10 +42,10 @@ redirect_from:
 ------
 
 # 代表性科研成果
-- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题) [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
-- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题) [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
-- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题) [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
-- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制) [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
+- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. <span style="color: red;">(考虑欠驱动机器人的避障控制和信号噪声问题) </span> [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
+- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. <span style="color: red;">(考虑欠驱动机器人的约束控制问题) </span> [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
+- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. <span style="color: red;">(针对欠驱动机器人的传感器测量问题)</span> [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
+- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. <span style="color: red;">(存在内外干扰以及执行器死区的海上起重机系统控制) </span> [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
 
 ------
 
@@ -60,8 +60,8 @@ redirect_from:
 - 2023年，第七届全国集群智能与协同控制大会**最佳张贴论文奖（Best Poster Paper Award）** [[证书]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf)        
 - 2023年，南开大学研究生三好学生 [[证书]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)       
 - 2022年，华北五省（市、自治区）大学生机器人大赛决赛一等奖 [[证书]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)       
-- 2022年，南开大学公能奖学金一等奖、研究生优秀学生    
-- 2021年，南开大学研究生推免奖学金、悟空投资奖学金    
+- 2022年，南开大学公能奖学金一等奖[[证书]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf)、研究生优秀学生[[证书]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf)    
+- 2021年，南开大学研究生推免奖学金[[证书]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf)、悟空投资奖学金    
 - 2021年，吉林大学优秀毕业论文（设计）[[证书]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)       
 - 2019年，全国大学生物理学术竞赛二等奖（队长） [[证书]](../assets/certificates/CUPT国赛二等奖.pdf)      
 - 2023年，第42界中国控制会议(CCC 2023)优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)       
@@ -70,7 +70,7 @@ redirect_from:
 ------
 
 # 学术兼职/服务
-- 国际电气电子工程师学会（Institute of Electrical and Electronics Engineers，简称IEEE）研究生学生会员 [[证书]](../assets/certificates/IEEE学生会员证书.pdf)     
+- 国际电气电子工程师学会（Institute of Electrical and Electronics Engineers，简称IEEE）研究生学生会员 [[证书]](../assets/certificates/IEEE学生会员证书.pdf)      
 - 自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
 - 多个期刊、会议（如IEEE Transactions on Cybernetics、IEEE Systems Journal、Nonlinear Dynamics、Information Sciences、ICRA、ACC、CDC 等）的独立审稿人    
 
