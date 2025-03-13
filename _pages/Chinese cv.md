@@ -42,10 +42,10 @@ redirect_from:
 ------
 
 # 代表性科研成果
-- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. <span style="color: red;">(考虑欠驱动机器人的避障控制和信号噪声问题) </span> [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
-- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. <span style="color: red;">(考虑欠驱动机器人的约束控制问题) </span> [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
-- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. <span style="color: red;">(针对欠驱动机器人的传感器测量问题)</span> [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
-- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. <span style="color: red;">(存在内外干扰以及执行器死区的海上起重机系统控制) </span> [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
+- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题) [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
+- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题) [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
+- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题) [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
+- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制) [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
 
 ------
 
