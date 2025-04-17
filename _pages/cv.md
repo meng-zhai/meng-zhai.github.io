@@ -43,8 +43,8 @@ redirect_from:
 ------
 
 # Partially Granted Patents
-- Ning Sun (Supervisor), Meng Zhai, et al, Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering," **China Invention Patent**, Application/Patent No.: ZL202410176342.2, Granted. [[Certificate]](../assets/certificates/2024101763422-发明专利证书.pdf)    
-- Ning Sun (Supervisor), Meng Zhai, et al, A crane control method, system, medium, device, and product," **China Invention Patent**, Application/Patent No.: ZL202410674477.1, Granted. [[Certificate]](../assets/certificates/2024106744771-发明专利证书.pdf)    
+- Ning Sun (Supervisor), Meng Zhai, et al, Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering," **China Invention Patent**, Patent No.: ZL202410176342.2, Granted. [[Certificate]](../assets/certificates/2024101763422-发明专利证书.pdf)    
+- Ning Sun (Supervisor), Meng Zhai, et al, A crane control method, system, medium, device, and product," **China Invention Patent**, Patent No.: ZL202410674477.1, Granted. [[Certificate]](../assets/certificates/2024106744771-发明专利证书.pdf)    
 - Bin Duan (Advisor), Meng Zhai, et al, A device and method for measuring eddy current braking law based on radial magnetic field, **China Invention Patent**, Patent No.: ZL202010547822.7, Granted. [[Certificate]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)
 
 ------
