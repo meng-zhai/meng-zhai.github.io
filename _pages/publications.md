@@ -100,3 +100,17 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     <p class="url"> [<a href="Zhai 等 - Oscillations Damping Control of Variable Cable Len.pdf">Paper</a>] </p>
   </div>
 </div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="MRAI2025-Unactuated Energy Limit-TP.jpg" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Trajectory planning for underactuated mechatronic systems with unactuated mechanical energy limits: A power regulation perspective</p>
+    <p class="authors"> <b>Meng Zhai</b>, Yu Gao, Tong Yang, Ming Li, and Ning Sun </p>
+    <p class="journal"> International Conference on Mechatronics, Robotics, and Artificial Intelligence <b>(MRAI)</b>, Jinan, China, Apr. 25-27, 2025 </p>
+    <p class="url"> [<a href="MRAI2025-Unactuated Energy Limit-TP.pdf">Paper</a>] </p>
+  </div>
+</div>
