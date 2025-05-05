@@ -19,7 +19,7 @@ redirect_from:
 **College of Communication Engineering, &ensp;&ensp; Jilin University, &ensp;&ensp; Changchun, China**   
 - B.S. degree in Automation, &ensp;&ensp; 09/2017 - 06/2021      
 - Major Courses: Automatic control principles, Modern control theory, Electric drive automatic control system, Computer control system, etc.
-- Ranking: 8/161 (Top 5%) &ensp;&ensp; GPA: 3.74/4.0 
+- Ranking: 8/161 (Top 5%) &ensp;&ensp; GPA: 3.79/4.0 
 
 ------
 
