@@ -82,7 +82,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <div class="info-container">
     <p class="paper-title">面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制</p>
     <p class="authors"> <b>翟猛</b>, 王奕轩, 侯玮杰, 吴庆祥, 孙宁</p>
-    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, “星表作业机器人”专题, 二审中  </p>
+    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, “星表作业机器人”专题, 已录用  </p>
   </div>
 </div>
 
@@ -110,7 +110,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <div class="info-container">
     <p class="paper-title">Trajectory planning for underactuated mechatronic systems with unactuated mechanical energy limits: A power regulation perspective</p>
     <p class="authors"> <b>Meng Zhai</b>, Yu Gao, Tong Yang, Ming Li, and Ning Sun </p>
-    <p class="journal"> International Conference on Mechatronics, Robotics, and Artificial Intelligence <b>(MRAI)</b>, Jinan, China, Apr. 25-27, 2025 </p>
+    <p class="journal"> International Conference on Mechatronics, Robotics, and Artificial Intelligence <b>(MRAI)</b>, Jinan, China, Jun. 19-21, 2025 </p>
     <p class="url"> [<a href="MRAI2025-Unactuated Energy Limit-TP.pdf">Paper</a>] </p>
   </div>
 </div>
