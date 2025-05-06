@@ -39,6 +39,7 @@ redirect_from:
 - Meng Zhai, et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. [[Paper Link]](https://ieeexplore.ieee.org/document/10001761)      
 - Meng Zhai, et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. [[Paper Link]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
 - Meng Zhai, et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. [[Paper Link]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)   
+- Meng Zhai, et al, “Safety follow-up control of underactuated suspension systems for spacecrafts with unknown motion trajectories,” ***Robot***, Accepted. 
 
 ------
 
