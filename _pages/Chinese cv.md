@@ -42,17 +42,18 @@ redirect_from:
 ------
 
 # 代表性科研成果
-- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (考虑欠驱动机器人的避障控制和信号噪声问题) [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
-- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (考虑欠驱动机器人的约束控制问题) [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
-- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (针对欠驱动机器人的传感器测量问题) [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
-- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (存在内外干扰以及执行器死区的海上起重机系统控制) [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
+- Meng Zhai (翟猛), et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. (<span style="color: blue;">考虑欠驱动机器人的避障控制和信号噪声问题</span>) [[论文链接]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
+- Meng Zhai (翟猛), et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. (<span style="color: blue;">考虑欠驱动机器人的约束控制问题</span>) [[论文链接]](https://ieeexplore.ieee.org/document/10001761)      
+- Meng Zhai (翟猛), et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (<span style="color: blue;">针对欠驱动机器人的传感器测量问题</span>) [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
+- Meng Zhai (翟猛), et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (<span style="color: blue;">存在内外干扰以及执行器死区的海上起重机系统控制</span>) [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
+- 翟猛, 等. 面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制. ***机器人***, 已录用. (<span style="color: blue;">保证吊绳偏角约束的随动控制方法</span>)
 
 ------
 
 # 部分授权专利
-- 孙宁(导师)，翟猛，等，基于扩展卡尔曼滤波的吊车系统非线性模型预测控制算法，中国发明专利，专利号：ZL202410176342.2，已授权。(保证塔式起重机的多重输入输出约束) [[证书]](../assets/certificates/2024101763422-发明专利证书.pdf)   
-- 孙宁(导师)，翟猛，等，一种起重机控制方法、系统、介质、设备及产品，中国发明专利，专利号：ZL202410674477.1，已授权。(设计预测安全滤波器，过滤优化控制输入) [[证书]](../assets/certificates/2024106744771-发明专利证书.pdf)      
-- 段彬(指导教师)，翟猛，等，一种基于径向磁场的涡流制动规律测定装置及测定方法，中国发明专利，专利号：ZL202010547822.7，已授权。(利用涡流制动效应测定磁感应强度) [[证书]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)          
+- 孙宁(导师)，翟猛，等，基于扩展卡尔曼滤波的吊车系统非线性模型预测控制算法，中国发明专利，专利号：ZL202410176342.2，已授权。(<span style="color: blue;">保证塔式起重机的多重输入输出约束</span>) [[证书]](../assets/certificates/2024101763422-发明专利证书.pdf)   
+- 孙宁(导师)，翟猛，等，一种起重机控制方法、系统、介质、设备及产品，中国发明专利，专利号：ZL202410674477.1，已授权。(<span style="color: blue;">设计预测安全滤波器，过滤优化控制输入</span>) [[证书]](../assets/certificates/2024106744771-发明专利证书.pdf)      
+- 段彬(指导教师)，翟猛，等，一种基于径向磁场的涡流制动规律测定装置及测定方法，中国发明专利，专利号：ZL202010547822.7，已授权。(<span style="color: blue;">利用涡流制动效应测定磁感应强度</span>) [[证书]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)          
 
 ------
 
