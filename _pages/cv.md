@@ -35,18 +35,18 @@ redirect_from:
 ------
 
 # Representative Research Achievements
-- Meng Zhai, et al, “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. [[Paper Link]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
-- Meng Zhai, et al, “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. [[Paper Link]](https://ieeexplore.ieee.org/document/10001761)      
-- Meng Zhai, et al, “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. [[Paper Link]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
-- Meng Zhai, et al, “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. [[Paper Link]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)   
-- Meng Zhai, et al, “Safety follow-up control of underactuated suspension systems for spacecrafts with unknown motion trajectories,” ***Robot***, Accepted. (in Chinese)
+- Meng Zhai, et al., “Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance,” ***IEEE Transactions on Cybernetics***, 2025, 55(1): 369-382. [[Paper Link]](https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633)    
+- Meng Zhai, et al., “Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach,” ***IEEE/ASME Transactions on Mechatronics***, 2023, 28(3): 1359-1371. [[Paper Link]](https://ieeexplore.ieee.org/document/10001761)      
+- Meng Zhai, et al., “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. [[Paper Link]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
+- Meng Zhai, et al., “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. [[Paper Link]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)   
+- Meng Zhai, et al., “Safety follow-up control of underactuated suspension systems for spacecrafts with unknown motion trajectories,” ***Robot***, Accepted. (in Chinese)
 
 ------
 
 # Partially Granted Patents
-- Ning Sun (Supervisor), Meng Zhai, et al, Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering," **China Invention Patent**, Patent No.: ZL202410176342.2, Granted. [[Certificate]](../assets/certificates/2024101763422-发明专利证书.pdf)    
-- Ning Sun (Supervisor), Meng Zhai, et al, A crane control method, system, medium, device, and product," **China Invention Patent**, Patent No.: ZL202410674477.1, Granted. [[Certificate]](../assets/certificates/2024106744771-发明专利证书.pdf)    
-- Bin Duan (Advisor), Meng Zhai, et al, A device and method for measuring eddy current braking law based on radial magnetic field, **China Invention Patent**, Patent No.: ZL202010547822.7, Granted. [[Certificate]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)
+- Ning Sun (Supervisor), Meng Zhai, et al., Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering," **China Invention Patent**, Patent No.: ZL202410176342.2, Granted. [[Certificate]](../assets/certificates/2024101763422-发明专利证书.pdf)    
+- Ning Sun (Supervisor), Meng Zhai, et al., A crane control method, system, medium, device, and product," **China Invention Patent**, Patent No.: ZL202410674477.1, Granted. [[Certificate]](../assets/certificates/2024106744771-发明专利证书.pdf)    
+- Bin Duan (Advisor), Meng Zhai, et al., A device and method for measuring eddy current braking law based on radial magnetic field, **China Invention Patent**, Patent No.: ZL202010547822.7, Granted. [[Certificate]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)
 
 ------
 
