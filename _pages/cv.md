@@ -59,7 +59,8 @@ redirect_from:
 - 2021, Outstanding Graduation Thesis (Design), Jilin University [[Certificate]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)  
 - 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf)  
 - 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)  
-- 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)  
+- 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)
+- 2025, Institute of Robotics & Automatic Information System Badminton Tournament – Third Place in Men's Doubles, Mixed Doubles, and Team Event [[Souvenir photos]](../assets/certificates/IRAIS-2025羽毛球赛.jpg) 
 
 ------
 
