@@ -52,7 +52,7 @@ redirect_from:
 
 # Selected Awards & Honors
 - 2025, **Best Paper Award**, The 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025) [[Certificate]](../assets/certificates/MRAI-2025最佳论文奖（Best Paper Award）.pdf) [[Souvenir photos]](../assets/certificates/MRAI-2025最佳论文奖.jpg)      
-- 2023, **Best Poster Paper Award**, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) [[Certificate]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf)  
+- 2023, **Best Poster Paper Award**, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) [[Certificate]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[Souvenir photos]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)   
 - 2023, Merit Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)     
 - 2022, First Prize, Robot Competition for College Student in Five Provinces (Municipalities and Autonomous Regions) of North China [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
 - 2022, First Prize Gongneng Scholarship & Outstanding Graduate Student, Nankai University 
