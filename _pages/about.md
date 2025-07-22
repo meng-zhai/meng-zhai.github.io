@@ -12,7 +12,7 @@ I am currently working towards the Ph.D. degree in Artificial Intelligence, with
 
 **Research Interests:** <span style="color: red;">My research focuses on underactuated mechatronic/robotic systems and suspended micro-low gravity simulation systems, with equal emphasis on theory and application.</span> I am particularly interested in developing innovative planning and nonlinear/intelligent control strategies to address the challenges posed by robots with underactuation (fewer independent control inputs than system degrees of freedom) and complex dynamics. Additionally, I work on suspended systems that simulate micro-low gravity environments, enabling the testing and validation of space robotics and other applications in a controlled setting. My goal is to advance the capabilities of these systems through efficient and robust algorithms that enhance their performance, adaptability, intelligence, and autonomy.
 
-I am leading an NSFC Youth Student Basic Research Project (for Ph.D. students) / 国家自然科学基金青年学生基础研究项目（博士生项目）entitled "Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario".
+<span style="color: red;">I am leading an NSFC Youth Student Basic Research Project (for Ph.D. students) / 国家自然科学基金青年学生基础研究项目（博士研究生）.</span>entitled "Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario".
 
 **Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. You can find my Business Card from [Business Card](../files/Business_Card.jpg), and download my Chinese resume from [中文简历](../files/【教职】翟猛-个人简历（2025.07）.pdf). Please feel free to contact me.
 
