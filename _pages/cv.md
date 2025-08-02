@@ -56,10 +56,11 @@ redirect_from:
 - 2023, **Best Poster Paper Award**, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) [[Certificate]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[Souvenir photos]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)   
 - 2023, Merit Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)     
 - 2022, First Prize, Robot Competition for College Student in Five Provinces (Municipalities and Autonomous Regions) of North China [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
-- 2022, First Prize Gongneng Scholarship & Outstanding Graduate Student, Nankai University 
-- 2021, Nankai University Graduate Admission Scholarship & Wukong Investment Scholarship  
+- 2022, First Prize Gongneng Scholarship [[Certificate]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf) & Outstanding Graduate Student [[Certificate]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf), Nankai University 
+- 2021, Nankai University Graduate Admission Scholarship [[Certificate]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf) & Wukong Investment Scholarship  
 - 2021, Outstanding Graduation Thesis (Design), Jilin University [[Certificate]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)  
-- 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf)  
+- 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf)
+- 2018–2020, National Encouragement Scholarship [[Certificate]](../assets/certificates/吉林大学国家励志奖学金.pdf), Excellent League Member [[Certificate]](../assets/certificates/吉林大学优秀共青团员.pdf), and Outstanding Student Representative [[Certificate]](../assets/certificates/吉林大学优秀学生代表.pdf) at Jilin University for three consecutive years    
 - 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)  
 - 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)
 - 2025, Institute of Robotics & Automatic Information System Badminton Tournament – Third Place in Men's Doubles, Mixed Doubles, and Team Event [[Souvenir photos]](../assets/certificates/IRAIS-2025羽毛球赛.jpg) 
