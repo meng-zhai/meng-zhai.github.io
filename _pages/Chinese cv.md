@@ -67,8 +67,10 @@ redirect_from:
 - 2022年，南开大学公能奖学金一等奖 [[证书]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf)、研究生优秀学生 [[证书]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf)    
 - 2021年，南开大学研究生推免奖学金 [[证书]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf)、悟空投资奖学金    
 - 2021年，吉林大学优秀毕业论文（设计）[[证书]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)       
-- 2019年，全国大学生物理学术竞赛二等奖（队长）[[证书]](../assets/certificates/CUPT国赛二等奖.pdf)
-- 2018-2020年，连续3年获吉林大学国家励志奖学金 [[证书]](../assets/certificates/吉林大学国家励志奖学金.pdf)、优秀共青团员 [[证书]](../assets/certificates/吉林大学优秀共青团员.pdf)、优秀学生代表 [[证书]](../assets/certificates/吉林大学优秀学生代表.pdf)    
+- 2019年，全国大学生物理学术竞赛二等奖（队长）[[证书]](../assets/certificates/CUPT国赛二等奖.pdf)     
+- 2019-2020年，连续2年获吉林大学优秀共青团员 [[证书]](../assets/certificates/吉林大学优秀共青团员.pdf)   
+- 2018-2020年，连续3年获吉林大学国家励志奖学金 [[证书]](../assets/certificates/吉林大学国家励志奖学金.pdf)      
+- 2018-2021年，连续4年获吉林大学优秀学生代表 [[证书]](../assets/certificates/吉林大学院优秀学生.pdf)    
 - 2023年，第42界中国控制会议(CCC 2023)优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)       
 - 2022年，IEEE RCAR 2022会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)      
 - 2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 [[留影]](../assets/certificates/IRAIS-2025羽毛球赛.jpg) 
