@@ -54,7 +54,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <div class="info-container">
     <p class="paper-title">Adaptive neural network unified control for general MIMO underactuated mechatronic systems with disturbances via modified normal forms </p>
     <p class="authors"> <b>Meng Zhai</b>, Tong Yang, Ming Li, Xuerui Jiao, Yongchun Fang, and Ning Sun </p>
-    <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, early access, July 2025, doi: 10.1109/TASE.2025.3593468 </p>
+    <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 19377-19391, 2025 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/document/11099087">Paper</a>] </p>
   </div>
 </div>
