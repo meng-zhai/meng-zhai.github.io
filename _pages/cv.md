@@ -59,8 +59,9 @@ redirect_from:
 - 2022, First Prize Gongneng Scholarship [[Certificate]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf) & Outstanding Graduate Student [[Certificate]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf), Nankai University 
 - 2021, Nankai University Graduate Admission Scholarship [[Certificate]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf) & Wukong Investment Scholarship  
 - 2021, Outstanding Graduation Thesis (Design), Jilin University [[Certificate]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)  
-- 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf)
-- 2018–2020, National Encouragement Scholarship [[Certificates]](../assets/certificates/吉林大学国家励志奖学金.pdf) at Jilin University for 3 consecutive years
+- 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf) 
+- 2018–2020, National Encouragement Scholarship [[Certificates]](../assets/certificates/吉林大学国家励志奖学金.pdf) at Jilin University for 3 consecutive years    
+- 2019–2021, Academic Scholarship [[Certificates]](../assets/certificates/吉林大学学术科技奖.pdf) at Jilin University for 3 consecutive years    
 - 2018–2021, Outstanding Student Representative [[Certificates]](../assets/certificates/吉林大学院优秀学生.pdf) at Jilin University for 4 consecutive years   
 - 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)  
 - 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)
