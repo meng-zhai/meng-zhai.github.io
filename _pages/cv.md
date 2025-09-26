@@ -54,10 +54,13 @@ redirect_from:
 # Selected Awards & Honors
 - 2025, **Best Paper Award**, The 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025) [[Certificate]](../assets/certificates/MRAI-2025最佳论文奖（Best Paper Award）-电子版.pdf) [[Souvenir photos]](../assets/certificates/MRAI-2025最佳论文奖.jpg)      
 - 2023, **Best Poster Paper Award**, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) [[Certificate]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[Souvenir photos]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)   
+- 2025, **National Scholarship** for Doctoral Students, Nankai University
+- 2025, Outstanding Graduate Student Leader, Nankai University [[Certificate]](../assets/certificates/南开大学2024-2025学年研究生优秀学生干部.pdf)
+- 2025、2022, First Prize Gongneng Scholarship, Nankai University [[Certificate]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf)
 - 2023, Merit Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)     
 - 2022, First Prize, Robot Competition for College Student in Five Provinces (Municipalities and Autonomous Regions) of North China [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
-- 2022, First Prize Gongneng Scholarship [[Certificate]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf) & Outstanding Graduate Student [[Certificate]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf), Nankai University 
-- 2021, Nankai University Graduate Admission Scholarship [[Certificate]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf) & Wukong Investment Scholarship  
+- 2022, Outstanding Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf) 
+- 2021, Graduate Admission Scholarship, Nankai University [[Certificate]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf) & Wukong Investment Scholarship  
 - 2021, Outstanding Graduation Thesis (Design), Jilin University [[Certificate]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)  
 - 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf) 
 - 2018–2020, National Encouragement Scholarship [[Certificates]](../assets/certificates/吉林大学国家励志奖学金.pdf) at Jilin University for 3 consecutive years    
