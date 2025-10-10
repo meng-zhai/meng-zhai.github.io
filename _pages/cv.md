@@ -76,7 +76,7 @@ redirect_from:
 - Graduate Student Member, Institute of Electrical and Electronics Engineers (IEEE) [[Certificate]](../assets/certificates/IEEE学生会员证书.pdf)  
 - Student Committee Member, Autonomous Robotic Technology Seminar (ARTS)  
 - Member, Tianjin Robotics Society (TRS)
-- Independent Reviewer for several international journals and conferences: IEEE Transactions on Cybernetics, IEEE Systems Journal, Nonlinear Dynamics, Information Sciences, ICRA, ACC, CDC, ...
+- Independent Reviewer for several international journals and conferences: IEEE Transactions on Cybernetics, IEEE Robotics and Automation Letters, IEEE Systems Journal, Nonlinear Dynamics, Information Sciences, ICRA, ACC, CDC, ...
     
 ------
   
