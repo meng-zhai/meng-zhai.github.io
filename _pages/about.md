@@ -14,7 +14,7 @@ I am currently working towards the Ph.D. degree in Artificial Intelligence, with
 
 <span style="color: red;">I am leading an NSFC Youth Student Basic Research Project (for Ph.D. students) / 国家自然科学基金青年学生基础研究项目（博士研究生）</span>entitled "Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario".
 
-**Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. You can find my Business Card from [Business Card](../files/Business_Card.jpg), and download my Chinese resume from [中文简历](../files/【教职】翟猛-个人简历（2025.10）.pdf). Please feel free to contact me.
+**Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. You can find my Business Card from [Business Card](../files/Business_Card.jpg), and download my Chinese resume from [中文简历](../files/翟猛-个人简历（2025.10）.pdf). Please feel free to contact me.
 
 Email: zhaim@mail.nankai.edu.cn
 
