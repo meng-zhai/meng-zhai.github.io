@@ -57,7 +57,7 @@ redirect_from:
 - 2025, The 3rd Autonomous Robotic Technology Seminar (ARTS 2025) Scholarship Nomination Award (8 candidates worldwide each year) [[Certificate]](../assets/certificates/ARTS奖学金提名奖证书.pdf) [[Souvenir photos]](../assets/certificates/ARTS-2025奖学金提名奖.jpg)     
 - 2025, **National Scholarship** for Doctoral Students, Nankai University & BYD Scholarship    
 - 2025, Outstanding Graduate Student Leader, Nankai University [[Certificate]](../assets/certificates/南开大学2024-2025学年研究生优秀学生干部.pdf)
-- 2025、2022, First Prize Gongneng Scholarship, Nankai University [[Certificate]](../assets/certificates/南开大学2021-2022学年公能奖学金一等奖.pdf)
+- 2025、2022, First Prize Gongneng Scholarship, Nankai University [[Certificate]](../assets/certificates/南开大学公能奖学金一等奖.pdf)
 - 2023, Merit Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)     
 - 2022, First Prize, Robot Competition for College Student in Five Provinces (Municipalities and Autonomous Regions) of North China [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
 - 2022, Outstanding Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf) 
