@@ -47,7 +47,7 @@ redirect_from:
 - Meng Zhai (翟猛), et al., “Adaptive neural network unified control for general MIMO underactuated mechatronic systems with disturbances via modified normal forms,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 19377-19391. (<span style="color: blue;">提出统一的欠驱动标准型变换，鲁棒控制</span>) [[论文链接]](https://ieeexplore.ieee.org/document/11099087)     
 - Meng Zhai (翟猛), et al., “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. (<span style="color: blue;">针对欠驱动机器人的传感器测量问题</span>) [[论文链接]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)     
 - Meng Zhai (翟猛), et al., “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. (<span style="color: blue;">存在内外干扰以及执行器死区的海上起重机系统控制</span>) [[论文链接]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)    
-- 翟猛, 等. 面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制. ***机器人***, 2025, 已录用. (<span style="color: blue;">保证吊绳偏角约束的随动控制方法</span>)
+- 翟猛, 等. 面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制. ***机器人***, 在线发表, DOI: 10.13973/j.cnki.robot.250049. (<span style="color: blue;">保证吊绳偏角约束的随动控制方法</span>) [[论文链接]](https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSay8uZFlOyAlQoJFgkmwK51T5fjdIDqSHkn9FnyNFMUb1wMm9rsPw5e-mPeHm88CSMQJJcYHB9xde0LlKhhQJNQbeM52ZHEmGNfdqoLyl8C7gglcKVuLhTLvCxxWSzcJt2At9aDO94i8AjxZggma9GPN7Eqvj53FFQ1CoOZYxBgqAQ==&uniplatform=NZKPT&language=CHS)     
 
 ------
 
