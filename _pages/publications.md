@@ -96,7 +96,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <div class="info-container">
     <p class="paper-title">面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制 </p>
     <p class="authors"> <b>翟猛</b>, 王奕轩, 侯玮杰, 吴庆祥, 孙宁 </p>
-    <p class="journal"> <b><a href="https://robot.sia.cn/">机器人</a></b>, “星表作业机器人”专题, 已录用 </p>
+    <p class="journal"> <b><a href="https://robot.sia.cn/">机器人</a></b>, “星表作业机器人”专题, 在线发表, DOI: 10.13973/j.cnki.robot.250049 </p>
+    <p class="url"> [<a href="https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSayjEudwNKfbNL_NbFvUID2aILh8t2Mf70FxzyDHluV_YMTZfw6t6HxgA-AJwBwtBCcyxEuvkhf6Yev2O4HI6UsNJvHs9qDmhXGSgHqRAOUhbNwxyxpr051hR_kebqVN0d8GFX9ECHAMvClnjuNRhRXoUvHLMb4mwjZ4VGC6wTRtXg==&uniplatform=NZKPT&language=CHS">Paper</a>] </p>
   </div>
 </div>
 
