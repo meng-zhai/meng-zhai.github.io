@@ -40,7 +40,7 @@ redirect_from:
 - Meng Zhai, et al., “Adaptive neural network unified control for general MIMO underactuated mechatronic systems with disturbances via modified normal forms,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 19377-19391. [[Paper Link]](https://ieeexplore.ieee.org/document/11099087)     
 - Meng Zhai, et al., “Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states,” ***IEEE Transactions on Automation Science and Engineering***, 2025, 22: 1566-1578. [[Paper Link]](https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242)    
 - Meng Zhai, et al., “Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks,” ***Mechanism and Machine Theory***, 2022, 175: 104927. [[Paper Link]](https://linkinghub.elsevier.com/retrieve/pii/S0094114X22001859)   
-- Meng Zhai, et al., “Safety follow-up control of underactuated suspension systems for spacecrafts with unknown motion trajectories,” ***Robot***, 2025, Accepted. (in Chinese)
+- Meng Zhai, et al., “Safety follow-up control of underactuated suspension systems for spacecrafts with unknown motion trajectories,” ***Robot***, in press, DOI: 10.13973/j.cnki.robot.250049. (in Chinese) [[Paper Link]](https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSay8uZFlOyAlQoJFgkmwK51T5fjdIDqSHkn9FnyNFMUb1wMm9rsPw5e-mPeHm88CSMQJJcYHB9xde0LlKhhQJNQbeM52ZHEmGNfdqoLyl8C7gglcKVuLhTLvCxxWSzcJt2At9aDO94i8AjxZggma9GPN7Eqvj53FFQ1CoOZYxBgqAQ==&uniplatform=NZKPT&language=CHS)
 
 ------
 
