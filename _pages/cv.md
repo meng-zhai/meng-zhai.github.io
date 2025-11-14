@@ -74,7 +74,8 @@ redirect_from:
 ------
 
 # Academic Services
-- Graduate Student Member, Institute of Electrical and Electronics Engineers (IEEE) [[Certificate]](../assets/certificates/IEEE学生会员证书.pdf)  
+- Graduate Student Member, Institute of Electrical and Electronics Engineers (IEEE) [[Certificate]](../assets/certificates/IEEE学生会员证书.pdf)
+- Student Member, Chinese Association for Artificial Intelligence (CAAI) [[Certificate]](../assets/certificates/中国人工智能学会学生会员.png)      
 - Student Committee Member, Autonomous Robotic Technology Seminar (ARTS)  
 - Member, Tianjin Robotics Society (TRS)
 - Independent Reviewer for several international journals and conferences: IEEE Transactions on Cybernetics, IEEE Robotics and Automation Letters, IEEE Systems Journal, Nonlinear Dynamics, Information Sciences, ICRA, ACC, CDC, ...
