@@ -82,7 +82,8 @@ redirect_from:
 ------
 
 # 学术兼职/服务
-- 国际电气电子工程师学会（Institute of Electrical and Electronics Engineers，简称IEEE）研究生学生会员 [[证书]](../assets/certificates/IEEE学生会员证书.pdf)      
+- 国际电气电子工程师学会（Institute of Electrical and Electronics Engineers，简称IEEE）研究生学生会员 [[证书]](../assets/certificates/IEEE学生会员证书.pdf)
+- 中国人工智能学会学生会员（Chinese Association for Artificial Intelligence，简称CAAI）研究生学生会员 [[证书]](../assets/certificates/中国人工智能学会学生会员.png)      
 - 自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
 - 天津市机器人学会（Tianjin Robotics Society，简称TRS）会员
 - 多个国际期刊、会议（如IEEE Transactions on Cybernetics、IEEE Robotics and Automation Letters、IEEE Systems Journal、Nonlinear Dynamics、Information Sciences、ICRA、ACC、CDC 等）的独立审稿人   
