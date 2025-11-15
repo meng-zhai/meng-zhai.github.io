@@ -59,6 +59,7 @@ redirect_from:
 ------
 
 # 部分荣誉与奖励
+- 2025年，首届系统工程与电子技术大会**优秀论文** [[证书]](../assets/certificates/首届系统工程与电子技术大会-优秀论文证书.pdf)    
 - 2025年，机电一体化、机器人与人工智能学术会议 (MRAI 2025) **最佳论文奖（Best Paper Award）** [[证书]](../assets/certificates/MRAI-2025最佳论文奖（Best Paper Award）-电子版.pdf) [[留影]](../assets/certificates/MRAI-2025最佳论文奖.jpg)       
 - 2023年，第七届全国集群智能与协同控制大会 (CCSICC 2023) **最佳张贴论文奖（Best Poster Paper Award）** [[证书]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[留影]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)
 - 2025年，第三届自主机器人技术研讨会 (ARTS 2025) 奖学金提名奖（全球每年8名候选人） [[证书]](../assets/certificates/ARTS奖学金提名奖证书.pdf) [[留影]](../assets/certificates/ARTS-2025奖学金提名奖.jpg)
@@ -74,9 +75,9 @@ redirect_from:
 - 2019-2020年，连续2年获吉林大学优秀共青团员 [[证书]](../assets/certificates/吉林大学优秀共青团员.pdf)   
 - 2018-2020年，连续3年获吉林大学国家励志奖学金 [[证书]](../assets/certificates/吉林大学国家励志奖学金.pdf)
 - 2019-2021年，连续3年获吉林大学学术科技奖 [[证书]](../assets/certificates/吉林大学学术科技奖.pdf)   
-- 2018-2021年，连续4年获吉林大学优秀学生代表 [[证书]](../assets/certificates/吉林大学院优秀学生.pdf)   
-- 2023年，第42界中国控制会议(CCC 2023)优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)       
-- 2022年，IEEE RCAR 2022会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)      
+- 2018-2021年，连续4年获吉林大学优秀学生代表 [[证书]](../assets/certificates/吉林大学院优秀学生.pdf)
+<!-- 2023年，第42界中国控制会议(CCC 2023)优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf) -->
+<!-- 2022年，IEEE RCAR 2022会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf) -->     
 - 2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 [[留影]](../assets/certificates/IRAIS-2025羽毛球赛.jpg) 
 
 ------
