@@ -52,6 +52,7 @@ redirect_from:
 ------
 
 # Selected Awards & Honors
+- 2025, **Excellent Articles**, The 1st Conference on Systems Engineering and Electronics [[Certificate]](../assets/certificates/首届系统工程与电子技术大会-优秀论文证书.pdf)     
 - 2025, **Best Paper Award**, The 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025) [[Certificate]](../assets/certificates/MRAI-2025最佳论文奖（Best Paper Award）-电子版.pdf) [[Souvenir photos]](../assets/certificates/MRAI-2025最佳论文奖.jpg)      
 - 2023, **Best Poster Paper Award**, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) [[Certificate]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[Souvenir photos]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)     
 - 2025, The 3rd Autonomous Robotic Technology Seminar (ARTS 2025) Scholarship Nomination Award (8 candidates worldwide each year) [[Certificate]](../assets/certificates/ARTS奖学金提名奖证书.pdf) [[Souvenir photos]](../assets/certificates/ARTS-2025奖学金提名奖.jpg)     
@@ -67,9 +68,9 @@ redirect_from:
 - 2018–2020, National Encouragement Scholarship [[Certificates]](../assets/certificates/吉林大学国家励志奖学金.pdf) at Jilin University for 3 consecutive years    
 - 2019–2021, Academic Scholarship [[Certificates]](../assets/certificates/吉林大学学术科技奖.pdf) at Jilin University for 3 consecutive years    
 - 2018–2021, Outstanding Student Representative [[Certificates]](../assets/certificates/吉林大学院优秀学生.pdf) at Jilin University for 4 consecutive years   
-- 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf)  
-- 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf)
-- 2025, Institute of Robotics & Automatic Information System Badminton Tournament – Third Place in Men's Doubles, Mixed Doubles, and Team Event [[Souvenir photos]](../assets/certificates/IRAIS-2025羽毛球赛.jpg) 
+- 2025, Institute of Robotics & Automatic Information System Badminton Tournament – Third Place in Men's Doubles, Mixed Doubles, and Team Event [[Souvenir photos]](../assets/certificates/IRAIS-2025羽毛球赛.jpg)
+<!-- 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf) -->
+<!-- 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf) -->
 
 ------
 
