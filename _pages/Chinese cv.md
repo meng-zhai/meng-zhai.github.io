@@ -74,11 +74,11 @@ redirect_from:
 - 2019年，全国大学生物理学术竞赛二等奖（队长）[[证书]](../assets/certificates/CUPT国赛二等奖.pdf)     
 - 2020年、2019年，吉林大学优秀共青团员(累计2次) [[证书]](../assets/certificates/吉林大学优秀共青团员.pdf)   
 - 2020年、2019年、2018年，吉林大学国家励志奖学金(累计3次) [[证书]](../assets/certificates/吉林大学国家励志奖学金.pdf)
-<!-- - 2021年、2020年、2019年、2018年，吉林大学学术科技奖(累计4次) [[证书]](../assets/certificates/吉林大学学术科技奖.pdf) -->      
-<!-- - 2021年、2020年、2019年、2018年，吉林大学优秀学生代表(累计4次) [[证书]](../assets/certificates/吉林大学院优秀学生.pdf) -->   
-- 2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 [[留影]](../assets/certificates/IRAIS-2025羽毛球赛.jpg)
+- 2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 [[留影]](../assets/certificates/IRAIS-2025羽毛球赛.jpg)    
+<!-- - 2021年、2020年、2019年、2018年，吉林大学学术科技奖(累计4次) [[证书]](../assets/certificates/吉林大学学术科技奖.pdf) -->
+<!-- - 2021年、2020年、2019年、2018年，吉林大学优秀学生代表(累计4次) [[证书]](../assets/certificates/吉林大学院优秀学生.pdf) -->
 <!-- 2023年，第42界中国控制会议 (CCC 2023) 优秀志愿者 [[证书]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf) -->
-<!-- 2022年，IEEE International Conference on Real-time Computing and Robotics (RCAR 2022) 会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf) -->    
+<!-- 2022年，IEEE International Conference on Real-time Computing and Robotics (RCAR 2022) 会议优秀志愿者 [[证书]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf) -->
 
 ------
 
