@@ -58,16 +58,16 @@ redirect_from:
 - 2025, The 3rd Autonomous Robotic Technology Seminar (ARTS 2025) Scholarship Nomination Award (8 candidates worldwide each year) [[Certificate]](../assets/certificates/ARTS奖学金提名奖证书.pdf) [[Souvenir photos]](../assets/certificates/ARTS-2025奖学金提名奖.jpg)     
 - 2025, **National Scholarship** for Doctoral Students, Nankai University & BYD Scholarship    
 - 2025, Outstanding Graduate Student Leader, Nankai University [[Certificate]](../assets/certificates/南开大学2024-2025学年研究生优秀学生干部.pdf)
-- 2025、2022, First Prize Gongneng Scholarship, Nankai University [[Certificate]](../assets/certificates/南开大学公能奖学金一等奖.pdf)
+- 2025、2022, First Prize Gongneng Scholarship, Nankai University (cumulative 2 times) [[Certificate]](../assets/certificates/南开大学公能奖学金一等奖.pdf)
 - 2023, Merit Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2022-2023学年度研究生三好学生.pdf)     
 - 2022, First Prize, Robot Competition for College Student in Five Provinces (Municipalities and Autonomous Regions) of North China [[Certificate]](../assets/certificates/吊车-获奖证书-华北五省(市、自治区)大学生机器人大赛.pdf)  
 - 2022, Outstanding Graduate Student, Nankai University [[Certificate]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf) 
 - 2021, Graduate Admission Scholarship, Nankai University [[Certificate]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf) & Wukong Investment Scholarship  
 - 2021, Outstanding Graduation Thesis (Design), Jilin University [[Certificate]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)  
 - 2019, Second Prize, China Undergraduate Physics Tournament (CUPT) (Team Captain) [[Certificate]](../assets/certificates/CUPT国赛二等奖.pdf) 
-- 2018–2020, National Encouragement Scholarship [[Certificates]](../assets/certificates/吉林大学国家励志奖学金.pdf) at Jilin University for 3 consecutive years    
-- 2019–2021, Academic Scholarship [[Certificates]](../assets/certificates/吉林大学学术科技奖.pdf) at Jilin University for 3 consecutive years    
-- 2018–2021, Outstanding Student Representative [[Certificates]](../assets/certificates/吉林大学院优秀学生.pdf) at Jilin University for 4 consecutive years   
+- 2020、2019、2018, National Encouragement Scholarship, Jilin University (cumulative 3 times) [[Certificates]](../assets/certificates/吉林大学国家励志奖学金.pdf)    
+<!-- - 2021、2020、2019, Academic Scholarship, Jilin University (cumulative 3 times) [[Certificates]](../assets/certificates/吉林大学学术科技奖.pdf) -->   
+<!-- - 2021、2020、2019、2018, Outstanding Student Representative, Jilin University (cumulative 4 times) [[Certificates]](../assets/certificates/吉林大学院优秀学生.pdf) -->     
 - 2025, Institute of Robotics & Automatic Information System Badminton Tournament – Third Place in Men's Doubles, Mixed Doubles, and Team Event [[Souvenir photos]](../assets/certificates/IRAIS-2025羽毛球赛.jpg)
 <!-- 2023, Outstanding Volunteer, The 42nd Chinese Control Conference (CCC 2023) [[Certificate]](../assets/certificates/2023第42界中国控制会议CCC优秀志愿者.pdf) -->
 <!-- 2022, Outstanding Volunteer, 2022 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2022) [[Certificate]](../assets/certificates/IEEE-RCAR-2022会议优秀志愿者.pdf) -->
