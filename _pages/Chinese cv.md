@@ -87,7 +87,7 @@ redirect_from:
 - 中国人工智能学会（Chinese Association for Artificial Intelligence，简称CAAI）学生会员 [[证书]](../assets/certificates/中国人工智能学会学生会员.png)      
 - 自主机器人技术研讨会（Autonomous Robotic Technology Seminar，简称ARTS）学生委员会委员   
 - 天津市机器人学会（Tianjin Robotics Society，简称TRS）会员
-- 多个国际期刊、会议（如IEEE Transactions on Cybernetics、IEEE Robotics and Automation Letters、IEEE Systems Journal、Nonlinear Dynamics、Information Sciences、ICRA、ACC、CDC 等）的独立审稿人   
+- 多个国际期刊、会议（如IEEE Transactions on Industrial Electronics、IEEE Transactions on Cybernetics、IEEE Robotics and Automation Letters、IEEE Systems Journal、Nonlinear Dynamics、Information Sciences、ICRA、ACC、CDC 等）的独立审稿人   
 
 ------
 
