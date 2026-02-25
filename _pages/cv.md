@@ -28,7 +28,7 @@ redirect_from:
 **Source:** National Natural Science Foundation of China **(NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**   
 **Introduction:** This project aims to achieve high-fidelity simulation of the equivalent mechanical environment of a micro-low gravity field using suspension systems, providing feasible experimental conditions for ground-based research on the dynamic behavior of spacecraft on extraterrestrial bodies. Targeted **system design, modeling, and control** methods are developed. The outcomes will be practically implemented at the China Academy of Space Technology (CAST) 518 Institute, which is expected to contribute to ground validation for extraterrestrial exploration missions in China.
 
-2. Research on Intelligent Predictive Control and Safety Trajectory Planning for Underactuated Robots      
+2. Dynamics-Mechanism-Driven General Planning and Control Methods for Underactuated Systems      
 **Source:** Ph.D. Dissertation Research      
 **Introduction:** This research aims to address the common challenges in various underactuated robotic systems, where the number of independent control inputs is fewer than the system’s degrees of freedom. By analyzing and utilizing their dynamic structural characteristics and task demands, this research proposes **a class of unified control and planning methods** to enhance steady/transient performance, transient performance, safety, reliability, robustness, and intelligence in underactuated robotic systems.
 
@@ -45,8 +45,8 @@ redirect_from:
 ------
 
 # Partially Granted Patents
-- Ning Sun (Supervisor), Meng Zhai, et al., Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering," **China Invention Patent**, Patent No.: ZL202410176342.2, Granted. [[Certificate]](../assets/certificates/2024101763422-发明专利证书.pdf)    
-- Ning Sun (Supervisor), Meng Zhai, et al., A crane control method, system, medium, device, and product," **China Invention Patent**, Patent No.: ZL202410674477.1, Granted. [[Certificate]](../assets/certificates/2024106744771-发明专利证书.pdf)    
+- Ning Sun (Supervisor), Meng Zhai, et al., Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering, **China Invention Patent**, Patent No.: ZL202410176342.2, Granted. [[Certificate]](../assets/certificates/2024101763422-发明专利证书.pdf)    
+- Ning Sun (Supervisor), Meng Zhai, et al., A crane control method, system, medium, device, and product, **China Invention Patent**, Patent No.: ZL202410674477.1, Granted. [[Certificate]](../assets/certificates/2024106744771-发明专利证书.pdf)    
 - Bin Duan (Advisor), Meng Zhai, et al., A device and method for measuring eddy current braking law based on radial magnetic field, **China Invention Patent**, Patent No.: ZL202010547822.7, Granted. [[Certificate]](../assets/certificates/20-1-104吉林大学2020105478227-发明专利证书.pdf)
 
 ------
