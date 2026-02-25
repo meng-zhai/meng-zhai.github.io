@@ -11,13 +11,13 @@ redirect_from:
 
 # Education
 **College of Artificial Intelligence, &ensp;&ensp; Nankai University (985, Double First Class), &ensp;&ensp; Tianjin, China**      
-- Ph.D. Candidate in Artificial Intelligence, &ensp;&ensp; 09/2021 - 06/2026 (expected)    
+- Ph.D. Candidate in Artificial Intelligence, &ensp;&ensp; Sep. 2021 - Jun. 2026 (expected)    
 - Supervisor: Prof. Sun Ning (Changjiang Young Scholars Program by the Ministry of Education)
 - Research Interests: Underactuated robots planning and nonlinear/intelligent control, Suspended micro-low gravity simulation systems
 - Major Courses: Intelligent predictive control, Nonlinear control based on Lyapunov method, Adaptive control, Modeling and identification, etc.
 
 **College of Communication Engineering, &ensp;&ensp; Jilin University (985, Double First Class), &ensp;&ensp; Changchun, China**   
-- B.S. degree in Automation, &ensp;&ensp; 09/2017 - 06/2021      
+- B.S. degree in Automation, &ensp;&ensp; Sep. 2017 - Jun. 2021      
 - Major Courses: Automatic control principles, Modern control theory, Electric drive automatic control system, Computer control system, etc.
 - Ranking: 8/161 (Top 5%) &ensp;&ensp; GPA: 3.79/4.0 
 
@@ -25,11 +25,11 @@ redirect_from:
 
 # Projects Leadership
 1. Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario      
-**Source:** National Natural Science Foundation of China **(NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**   
+**Source:** National Natural Science Foundation of China **(NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**; Jun. 2025 - Dec. 2026; CNY 300,000; PI.   
 **Introduction:** This project aims to achieve high-fidelity simulation of the equivalent mechanical environment of a micro-low gravity field using suspension systems, providing feasible experimental conditions for ground-based research on the dynamic behavior of spacecraft on extraterrestrial bodies. Targeted **system design, modeling, and control** methods are developed. The outcomes will be practically implemented at the China Academy of Space Technology (CAST) 518 Institute, which is expected to contribute to ground validation for extraterrestrial exploration missions in China.
 
 2. Dynamics-Mechanism-Driven General Planning and Control Methods for Underactuated Systems      
-**Source:** Ph.D. Dissertation Research      
+**Source:** Ph.D. Dissertation Research; Sep. 2021 - Jun. 2026.      
 **Introduction:** This research aims to address the common challenges in various underactuated robotic systems, where the number of independent control inputs is fewer than the system’s degrees of freedom. By analyzing and utilizing their dynamic structural characteristics and task demands, this research proposes **a class of unified control and planning methods** to enhance steady/transient performance, transient performance, safety, reliability, robustness, and intelligence in underactuated robotic systems.
 
 ------
