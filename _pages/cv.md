@@ -25,7 +25,7 @@ redirect_from:
 
 # Projects Leadership
 1. Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario      
-**Source:** National Natural Science Foundation of China **(NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**; Jun. 2025 - Dec. 2026; CNY 300,000; PI.   
+**Source:** National Natural Science Foundation of China **(NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**; Jun. 2025 - Dec. 2026; CNY 300,000; **PI**.   
 **Introduction:** This project aims to achieve high-fidelity simulation of the equivalent mechanical environment of a micro-low gravity field using suspension systems, providing feasible experimental conditions for ground-based research on the dynamic behavior of spacecraft on extraterrestrial bodies. Targeted **system design, modeling, and control** methods are developed. The outcomes will be practically implemented at the China Academy of Space Technology (CAST) 518 Institute, which is expected to contribute to ground validation for extraterrestrial exploration missions in China.
 
 2. Dynamics-Mechanism-Driven General Planning and Control Methods for Underactuated Systems      
