@@ -26,11 +26,11 @@ redirect_from:
 # Projects Leadership
 1. Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario      
 **Source:** National Natural Science Foundation of China **(NSFC)** Youth Student Basic Research Project **(for Ph.D. students)**; Jun. 2025 - Dec. 2026; CNY 300,000; **PI**.   
-**Introduction:** This project aims to achieve high-fidelity simulation of the equivalent mechanical environment of a micro-low gravity field using suspension systems, providing feasible experimental conditions for ground-based research on the dynamic behavior of spacecraft on extraterrestrial bodies. Targeted **system design, modeling, and control** methods are developed. The outcomes will be practically implemented at the China Academy of Space Technology (CAST) 518 Institute, which is expected to contribute to ground validation for extraterrestrial exploration missions in China.
+**Introduction:** This project aims to achieve *high-fidelity simulation* of the equivalent mechanical environment of a micro-low gravity field using suspension systems, providing feasible experimental conditions for ground-based research on the dynamic behavior of spacecraft on extraterrestrial bodies. Targeted **system design, modeling, and control** methods are developed. The outcomes will be practically implemented at the China Academy of Space Technology (CAST) 518 Institute, which is expected to contribute to ground validation for extraterrestrial exploration missions in China.
 
 2. Dynamics-Mechanism-Driven General Planning and Control Methods for Underactuated Systems      
 **Source:** Ph.D. Dissertation Research; Sep. 2021 - Jun. 2026.      
-**Introduction:** This research aims to address the common challenges in various underactuated robotic systems, where the number of independent control inputs is fewer than the system’s degrees of freedom. By analyzing and utilizing their dynamic structural characteristics and task demands, this research proposes **a class of unified control and planning methods** to enhance steady/transient performance, transient performance, safety, reliability, robustness, and intelligence in underactuated robotic systems.
+**Introduction:** This research aims to address the **common challenges in various underactuated robotic systems**, where the number of independent control inputs is *fewer* than the system’s degrees of freedom. By analyzing and utilizing their dynamic structural characteristics and task demands, this research proposes **a class of unified control and planning methods** to enhance steady/transient performance, transient performance, safety, reliability, robustness, and intelligence in underactuated robotic systems.
 
 ------
 
