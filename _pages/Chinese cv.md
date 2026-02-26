@@ -60,9 +60,9 @@ redirect_from:
 
 # 部分荣誉与奖励
 - 2025年，首届系统工程与电子技术大会**优秀论文** [[证书]](../assets/certificates/首届系统工程与电子技术大会-优秀论文证书.pdf)    
-- 2025年，机电一体化、机器人与人工智能学术会议 (MRAI 2025) **最佳论文奖（Best Paper Award）** [[证书]](../assets/certificates/MRAI-2025最佳论文奖（Best Paper Award）-电子版.pdf) [[留影]](../assets/certificates/MRAI-2025最佳论文奖.jpg)       
-- 2023年，第七届全国集群智能与协同控制大会 (CCSICC 2023) **最佳张贴论文奖（Best Poster Paper Award）** [[证书]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[留影]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)
-- 2025年，第三届自主机器人技术研讨会 (ARTS 2025) 奖学金提名奖（全球每年8名候选人） [[证书]](../assets/certificates/ARTS奖学金提名奖证书.pdf) [[留影]](../assets/certificates/ARTS-2025奖学金提名奖.jpg)
+- 2025年，机电一体化、机器人与人工智能学术会议 (MRAI 2025) **最佳论文奖(Best Paper Award)** [[证书]](../assets/certificates/MRAI-2025最佳论文奖（Best Paper Award）-电子版.pdf) [[留影]](../assets/certificates/MRAI-2025最佳论文奖.jpg)       
+- 2023年，第七届全国集群智能与协同控制大会 (CCSICC 2023) **最佳张贴论文奖(Best Poster Paper Award)** [[证书]](../assets/certificates/2023年第七届全国集群智能与协同控制大会最佳张贴论文奖（Best Poster Paper Award）.pdf) [[留影]](../assets/certificates/CCSICC-2023最佳张贴论文奖.jpg)
+- 2025年，第三届自主机器人技术研讨会 (ARTS 2025) 奖学金提名奖(全球每年8名候选人) [[证书]](../assets/certificates/ARTS奖学金提名奖证书.pdf) [[留影]](../assets/certificates/ARTS-2025奖学金提名奖.jpg)
 - 2025年，南开大学博士生**国家奖学金**、比亚迪奖学金
 - 2025年，南开大学研究生优秀学生党员 [[证书]](../assets/certificates/南开大学2024-2025年度研究生优秀学生党员.pdf)、优秀学生干部 [[证书]](../assets/certificates/南开大学2024-2025学年研究生优秀学生干部.pdf)
 - 2025年、2022年，南开大学研究生公能奖学金一等奖(累计2次) [[证书]](../assets/certificates/南开大学公能奖学金一等奖.pdf)      
@@ -71,7 +71,7 @@ redirect_from:
 - 2022年，南开大学研究生优秀学生 [[证书]](../assets/certificates/南开大学2021-2022学年度研究生优秀学生.pdf)    
 - 2021年，南开大学研究生推免奖学金 [[证书]](../assets/certificates/南开大学2021年研究生推免奖学金.pdf)、悟空投资奖学金    
 - 2021年，吉林大学优秀毕业论文（设计）[[证书]](../assets/certificates/吉林大学优秀毕业论文（设计）.pdf)       
-- 2019年，全国大学生物理学术竞赛二等奖（队长）[[证书]](../assets/certificates/CUPT国赛二等奖.pdf)     
+- 2019年，全国大学生物理学术竞赛二等奖(队长)[[证书]](../assets/certificates/CUPT国赛二等奖.pdf)     
 - 2020年、2019年，吉林大学优秀共青团员(累计2次) [[证书]](../assets/certificates/吉林大学优秀共青团员.pdf)   
 - 2020年、2019年、2018年，吉林大学国家励志奖学金(累计3次) [[证书]](../assets/certificates/吉林大学国家励志奖学金.pdf)
 - 2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 [[留影]](../assets/certificates/IRAIS-2025羽毛球赛.jpg)    
