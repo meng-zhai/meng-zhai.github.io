@@ -14,7 +14,7 @@ I am currently working towards the Ph.D. degree in Artificial Intelligence, with
 
 <span style="color: red;">I am leading an NSFC Youth Student Basic Research Project (for Ph.D. students) / 国家自然科学基金青年学生基础研究项目（博士研究生）</span>entitled "Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario".
 
-For further details, please refer to my [Business Card](../files/Business_Card.jpg) and download my [Curriculum Vitae](../files/Resume_MengZhai（2026.02）.pdf). I look forward to potential collaborations and academic discussions.
+For further details, please refer to my [Business Card](../files/Business_Card.jpg) and download my [Curriculum Vitae](../files/CV_MengZhai（2026.02）.pdf). I look forward to potential collaborations and academic discussions.
 
 <!-- **Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. You can find my business card from [Business Card](../files/Business_Card.jpg), and download my resume from [Resume](../files/Resume_MengZhai（2026.02）.pdf). Please feel free to contact me. -->
 
