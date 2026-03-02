@@ -18,7 +18,7 @@ redirect_from:
 
 <!-- **未来机会：** 我预计于2026年6月毕业，正在寻求学术界和工业界的工作机会。您可以通过[名片](../files/名片.jpg)查看我的联系方式，并下载我的[简历](../files/翟猛-个人简历（2026.02）.pdf)。如有任何问题或合作意向，欢迎随时与我联系，期待与您进一步沟通！ -->
 
-邮箱：zhaim@mail.nankai.edu.cn
+邮箱：[zhaim@mail.nankai.edu.cn](zhaim@mail.nankai.edu.cn)
 
 ------
 
