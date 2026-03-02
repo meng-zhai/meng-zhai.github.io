@@ -18,7 +18,7 @@ For further details, please refer to my [Business Card](../files/Business_Card.j
 
 <!-- **Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. You can find my business card from [Business Card](../files/Business_Card.jpg), and download my resume from [Resume](../files/Resume_MengZhai（2026.02）.pdf). Please feel free to contact me. -->
 
-Email: zhaim@mail.nankai.edu.cn
+Email: [tangshi2026@gmail.com](tangshi2026@gmail.com) (recommended); [zhaim@mail.nankai.edu.cn](zhaim@mail.nankai.edu.cn) (国内使用)
 
 --------
 
