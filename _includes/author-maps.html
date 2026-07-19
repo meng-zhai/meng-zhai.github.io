@@ -1,0 +1,53 @@
+{% assign variant = include.variant | default: 'sidebar' %}
+{% assign mobile_hidden = include.mobile_hidden | default: false %}
+{% assign author_map_classes = 'author__maps author__maps--' | append: variant %}
+{% if mobile_hidden %}
+  {% assign author_map_classes = author_map_classes | append: ' author__maps--mobile-hidden' %}
+{% endif %}
+{% if author %}
+  {% assign map_author = author %}
+{% elsif page.author and site.data.authors[page.author] %}
+  {% assign map_author = site.data.authors[page.author] %}
+{% else %}
+  {% assign map_author = site.author %}
+{% endif %}
+<div class="{{ author_map_classes }}">
+  {% comment %}
+  <div class="author__map author__map--visitors">
+    <div class="author__map-frame author__map-frame--ratio">
+      <div class="author__map-embed">
+        <script
+          type="text/javascript"
+          id="mapmyvisitors"
+          src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=O8KnN2KN9LurEKfnDLzKFXnBIkbpznU5gMV5OwVKB98&co=919ba3&cmo=3acc3a&cmn=ff5353&ct=ffffff"
+        ></script>
+      </div>
+    </div>
+  </div>
+  {% endcomment %}
+ {% if site.google_maps %}
+  {% assign map_lat = site.google_maps.location.lat | default: 0 %}
+  {% assign map_lng = site.google_maps.location.lng | default: 0 %}
+  {% assign map_zoom = site.google_maps.zoom | default: 14 %}
+  {% assign map_title = site.google_maps.location.title | default: map_author.location | default: 'Location' %}
+  {% assign map_language = site.google_maps.language | default: page.lang | default: site.lang | default: site.locale %}
+
+  <div class="author__map author__map--location">
+    <div class="author__map-frame author__map-frame--ratio">
+      <div class="author__map-embed">
+        <div class="author-location-map">
+          <iframe
+            class="author-location-map__fallback"
+            src="https://maps.google.com/maps?q={{ map_lat | escape }},{{ map_lng | escape }}&amp;z={{ map_zoom | escape }}&amp;output=embed{% if map_language %}&amp;hl={{ map_language | escape }}{% endif %}"
+            title="{{ map_title | escape }}"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            allowfullscreen
+          >
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+</div>

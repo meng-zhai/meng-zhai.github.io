@@ -1,23 +1,72 @@
-{% include base_path %}
-
 <div class="masthead">
   <div class="masthead__inner-wrap">
+    {% capture language_toggle %}
+    <button
+      type="button"
+      class="toggle-button toggle-button--language"
+      data-language-toggle
+      aria-label="Switch to Chinese"
+      aria-pressed="false"
+    >
+      <span class="toggle-button__icon" aria-hidden="true">
+        <i class="fas fa-globe"></i>
+      </span>
+    </button>
+    {% endcapture %}
+    {% capture theme_toggle %}
+    <button
+      type="button"
+      class="toggle-button toggle-button--theme"
+      data-theme-toggle
+      aria-label="Switch to dark mode"
+      aria-pressed="false"
+    >
+      <span class="toggle-button__icon toggle-button__icon--sun" aria-hidden="true">
+        <i class="fas fa-sun"></i>
+      </span>
+      <span class="toggle-button__icon toggle-button__icon--moon" aria-hidden="true">
+        <i class="fas fa-moon"></i>
+      </span>
+    </button>
+    {% endcapture %}
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="{{ '/' | relative_url }}#about-me" target="_self">
+              <span data-lang="en">Homepage</span>
+              <span data-lang="zh" hidden>首页</span>
+            </a>
+          </li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}" target="_self">
+                <span data-lang="en">{{ link.title_en }}</span>
+                <span data-lang="zh" hidden>{{ link.title_zh }}</span>
+              </a>
+            </li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
       </nav>
+    </div>
+    <div class="masthead__actions" role="presentation">
+      {{ language_toggle | strip }}
+      {{ theme_toggle | strip }}
+      <div class="greedy-nav__more">
+        <button
+          type="button"
+          class="greedy-nav__toggle hidden"
+          data-nav-toggle
+          aria-label="Toggle navigation menu"
+          aria-expanded="false"
+          aria-controls="masthead-hidden-links"
+          aria-haspopup="true"
+        >
+          <span class="sr-only">Toggle navigation</span>
+          <div class="navicon" aria-hidden="true"></div>
+        </button>
+        <ul class="hidden-links hidden" id="masthead-hidden-links" aria-hidden="true"></ul>
+      </div>
     </div>
   </div>
 </div>

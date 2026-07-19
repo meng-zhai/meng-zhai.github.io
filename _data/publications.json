@@ -1,0 +1,114 @@
+[
+  {
+    "type": "journal",
+    "year": 2022,
+    "date": "2022-09",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, T. Yang, N. Sun<sup>*</sup>, and Y. Fang, “<a href=\"https://www.sciencedirect.com/science/article/pii/S0094114X22001859\">Observer-based adaptive fuzzy control of underactuated offshore cranes for cargo stabilization with respect to ship decks</a>,” <em class=\"publication-venue publication-venue--english-journal\"><a href=\"https://www.sciencedirect.com/journal/mechanism-and-machine-theory\">Mechanism and Machine Theory</a></em>, vol. 175, Art. no. 104927, Sept. 2022. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2023,
+    "date": "2023-06",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, N. Sun<sup>*</sup>, T. Yang, and Y. Fang, “<a href=\"https://ieeexplore.ieee.org/document/10001761\">Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516\">IEEE/ASME Transactions on Mechatronics</a></em>, vol. 28, no. 3, pp. 1359–1371, Jun. 2023. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "date": "2025-01",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, S. Diao, T. Yang, Q. Wu, Y. Fang, and N. Sun<sup>*</sup>, “<a href=\"https://ieeexplore.ieee.org/document/10445242\">Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856\">IEEE Transactions on Automation Science and Engineering</a></em>, vol. 22, pp. 1566–1578, 2025. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "date": "2025-01",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, T. Yang, Q. Wu, S. Guo, R. Pang, and N. Sun<sup>*</sup>, “<a href=\"https://ieeexplore.ieee.org/document/10752633\">Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036\">IEEE Transactions on Cybernetics</a></em>, vol. 55, no. 1, pp. 369–382, Jan. 2025. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "date": "2025",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, T. Yang, M. Li, X. Jiao, Y. Fang, and N. Sun<sup>*</sup>, “<a href=\"https://ieeexplore.ieee.org/document/11099087\">Adaptive neural network unified control for general MIMO underactuated mechatronic systems with disturbances via modified normal forms</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856\">IEEE Transactions on Automation Science and Engineering</a></em>, vol. 22, pp. 19377–19391, 2025. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "date": "2025",
+    "scholar_id": "",
+    "body_html": "<p><strong>翟猛</strong>, 王奕轩, 侯玮杰, 吴庆祥, 孙宁<sup>*</sup>, “<a href=\"https://doi.org/10.13973/j.cnki.robot.250049\">面向航天器未知运动轨迹的欠驱动悬吊系统安全随动控制</a>,” <em class=\"publication-venue publication-venue--chinese-journal\"><a href=\"https://robot.sia.cn/\">机器人</a></em>, 在线发表, doi: 10.13973/j.cnki.robot.250049. [中文核心期刊；EI检索] </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2026,
+    "date": "2026",
+    "scholar_id": "",
+    "body_html": "<p>谭宝宝, 康亚亭, 蒲鹏飞, 杨万伟, 黄原, 肖定波, <strong>翟猛</strong><sup>*</sup>, “<a href=\"https://doi.org/10.13705/j.issn.1671-6833.2026.05.011\">基于等效输入干扰的悬吊式水平随动系统控制方法设计</a>,” <em class=\"publication-venue publication-venue--chinese-journal\"><a href=\"  http://gxb.zzu.edu.cn/\">郑州大学学报（工学版）</a></em>, 在线发表, doi: 10.13705/j.issn.1671-6833.2026.05.011. [中文核心期刊] </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2023,
+    "date": "2023-10",
+    "scholar_id": "",
+    "body_html": "<p>Y. Wang<sup>†</sup>, T. Yang<sup>†</sup>, <strong>M. Zhai</strong>, Y. Fang, and N. Sun<sup>*</sup>, “<a href=\"https://doi.org/10.1109/TII.2022.3230706\">Ship-mounted cranes hoisting underwater payloads: Transportation control with guaranteed constraints on overshoots and swing</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424\">IEEE Transactions on Industrial Informatics</a></em>, vol. 19, no. 10, pp. 9968–9978, Oct. 2023. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
+    "date": "2024-03",
+    "scholar_id": "",
+    "body_html": "<p>T. Yang, <strong>M. Zhai</strong>, Y. Fang, and N. Sun<sup>*</sup>, “<a href=\"https://doi.org/10.1109/TFUZZ.2023.3320145\">Adaptive fuzzy control of underactuated switched systems with disturbance observation and actuated/unactuated motion constraints</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91\">IEEE Transactions on Fuzzy Systems</a></em>, vol. 32, no. 3, pp. 1195–1207, Mar. 2024. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
+    "date": "2024-07",
+    "scholar_id": "",
+    "body_html": "<p>T. Yang, N. Sun<sup>*</sup>, <strong>M. Zhai</strong>, Y. Fang, and Q. Wu, “<a href=\"https://doi.org/10.1109/TAI.2024.3355870\">Data-based dual-loop learning control of underactuated systems with disturbance prediction and input-output constraints</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688\">IEEE Transactions on Artificial Intelligence</a></em>, vol. 5, no. 7, pp. 3419–3430, Jul. 2024. [EI indexed] </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
+    "date": "2024-09",
+    "scholar_id": "",
+    "body_html": "<p>T. Yang, N. Sun<sup>*</sup>, <strong>M. Zhai</strong>, and Y. Fang, “<a href=\"https://doi.org/10.1109/TCYB.2024.3361880\">Unactuated and actuated states simultaneously constrained optimal trajectory planning-based path-following control for underactuated robots</a>,” <em class=\"publication-venue publication-venue--ieee-journal\"><a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036\">IEEE Transactions on Cybernetics</a></em>, vol. 54, no. 9, pp. 5127–5140, Sept. 2024. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "date": "2025-04",
+    "scholar_id": "",
+    "body_html": "<p>Y. Wu, Q. Wu<sup>*</sup>, M. Zhang, S. Guo, <strong>M. Zhai</strong>, R. Pang, and N. Sun, “<a href=\"https://www.sciencedirect.com/science/article/pii/S0888327025002146\">A model predictive control method for 7-DoF tower cranes with distributed mass payloads and variable rope lengths</a>,” <em class=\"publication-venue publication-venue--english-journal\"><a href=\"https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing\">Mechanical Systems and Signal Processing</a></em>, vol. 229, Art. no. 112513, Apr. 2025. </p>"
+  },
+  {
+    "type": "journal",
+    "year": 2021,
+    "date": "2021-03",
+    "scholar_id": "",
+    "body_html": "<p>段彬, <strong>翟猛</strong><sup>*</sup>, 马式跃, 汪倩竹, “<a href=\"  https://sysy.cbpt.cnki.net/WKE3/WebPublication/paperDigest.aspx?paperID=ecc11124-0ddb-4d31-931c-abcffb2d6ee5\">酱油薄膜热透镜效应焦距测定的实验设计与应用</a>,” <em class=\"publication-venue publication-venue--chinese-journal\"><a href=\"https://sysy.cbpt.cnki.net/WKE/WebPublication/index.aspx\">实验室研究与探索</a></em>, vol. 40, no. 3, pp. 181–185, Mar. 2021. [中文核心期刊] </p>"
+  },
+  {
+    "type": "conference",
+    "year": 2023,
+    "date": "2023-03",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, T. Yang, and N. Sun<sup>*</sup>, “<a href=\"/assets/papers/conference/Zhai 等 - Oscillations Damping Control of Variable Cable Len.pdf\">Oscillations damping control of variable cable length pendulum systems by gain adaptive MPC</a>,” in <em class=\"publication-venue publication-venue--conference\">Proceedings of the 2023 IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization (SAMCON 2023)</em>, Southeast University, China, Mar. 24–26, 2023. </p>"
+  },
+  {
+    "type": "conference",
+    "year": 2025,
+    "date": "2025-06",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, Y. Gao, T. Yang, M. Li, and N. Sun<sup>*</sup>, “<a href=\"https://ieeexplore.ieee.org/document/11135577\">Trajectory planning for underactuated mechatronic systems with unactuated mechanical energy limits: A power regulation perspective</a>,” in <em class=\"publication-venue publication-venue--conference\">Proceedings of the 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025)</em>, Jinan, China, Jun. 19–21, 2025, pp. 113–117. [IEEE; EI indexed] <strong><span style=\"color:#d32f2f\">[Best Paper Award]</span></strong> </p>"
+  },
+  {
+    "type": "conference",
+    "year": 2026,
+    "date": "2026-06",
+    "scholar_id": "",
+    "body_html": "<p><strong>M. Zhai</strong>, T. Yang, M. Li, X. Jiao, Y. Fang, and N. Sun<sup>*</sup>, “Predictive safety filter for constrained uncertain nonlinear mechatronic systems with GP learning,” in <em class=\"publication-venue publication-venue--conference\">Proceedings of the 2026 IEEE 7th International Conference on Artificial Intelligence and Electromechanical Automation (IEEE-AIEA 2026)</em>, Shenzhen, China, Jun. 26–28, 2026, accepted. <strong><span style=\"color:#d32f2f\">[Best Paper Award]</span></strong> </p>"
+  }
+]

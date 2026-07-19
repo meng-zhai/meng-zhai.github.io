@@ -1,0 +1,278 @@
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
+:root {
+  --masthead-toggle-hover-color: #{$masthead-link-color-hover};
+  --masthead-toggle-underline-bg: #{mix(#fff, $primary-color, 50%)};
+  --masthead-toggle-focus-shadow: rgba($primary-color, 0.35);
+  --masthead-toggle-bg: #{$primary-color};
+  --masthead-toggle-color: #{$masthead-link-color};
+  --masthead-toggle-hover-bg: #{mix(#000, $primary-color, 15%)};
+  --masthead-hidden-links-bg: #fff;
+  --masthead-hidden-links-border: #{$border-color};
+  --masthead-hidden-links-divider: #{$border-color};
+  --masthead-hidden-links-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  --masthead-hidden-link-color: #{$masthead-link-color};
+  --masthead-hidden-link-hover-color: #{$masthead-link-color-hover};
+  --masthead-hidden-link-hover-bg: #{mix(#fff, $primary-color, 75%)};
+}
+
+.masthead {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: 1px solid $border-color;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    flex-wrap: nowrap;
+    padding: .5em;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.masthead__menu {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  nav {
+    width: 100%;
+    min-width: 0;
+    z-index: 10;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+
+.masthead__actions {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.35rem;
+  color: $masthead-link-color;
+  margin-left: auto;
+  margin-right: 0;
+  white-space: nowrap;
+  flex-shrink: 0;
+
+  @media (min-width: 641px) {
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+  }
+
+  .toggle-button {
+    margin: 0;
+  }
+
+  .greedy-nav__more {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
+.masthead__menu-home-item {
+  @include breakpoint($medium) {
+    display: block !important;
+  }
+  display: none !important;
+}
+
+.masthead__menu-item {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
+  }
+}
+
+
+.toggle-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  margin: 0;
+  border: none;
+  border-radius: 999px;
+  background-color: transparent;
+  color: inherit;
+  cursor: pointer;
+  line-height: 1;
+  white-space: nowrap;
+  font-size: 1rem;
+  transition: color 0.2s ease, box-shadow 0.2s ease;
+  --toggle-icon-size: 1.5rem;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: var(--toggle-icon-size);
+    height: 4px;
+    background: var(--masthead-toggle-underline-bg);
+    transform: translateX(-50%) scaleX(0);
+    transform-origin: center;
+    transition: transform 0.2s ease;
+    pointer-events: none;
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: var(--masthead-toggle-hover-color);
+  }
+
+  &:hover::after,
+  &:focus-visible::after {
+    transform: translateX(-50%) scaleX(1);
+  }
+
+  &:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--masthead-toggle-focus-shadow);
+  }
+
+  &:focus:not(:focus-visible) {
+    outline: none;
+    box-shadow: none;
+  }
+
+  &__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--toggle-icon-size);
+    height: var(--toggle-icon-size);
+    font-size: 1.1rem;
+
+    i {
+      line-height: 1;
+    }
+  }
+}
+
+.toggle-button--language {
+  margin: 0;
+}
+
+.greedy-nav__toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.35rem;
+  border: 0;
+  border-radius: 999px;
+  background-color: transparent;
+  color: var(--masthead-toggle-color);
+  cursor: pointer;
+  transition: color 0.2s ease, box-shadow 0.2s ease;
+  min-height: 2.25rem;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--masthead-toggle-hover-color);
+  }
+
+  &:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--masthead-toggle-focus-shadow);
+  }
+
+  &:focus:not(:focus-visible) {
+    outline: none;
+    box-shadow: none;
+  }
+
+  &.hidden {
+    display: none;
+  }
+
+  .navicon,
+  .navicon::before,
+  .navicon::after {
+    background: currentColor;
+  }
+}
+
+.toggle-button--theme {
+  .toggle-button__icon--moon {
+    display: none;
+  }
+}
+
+.masthead__actions .toggle-button {
+  margin: 0;
+  flex-shrink: 0;
+}
+
+html.theme-dark {
+  --masthead-toggle-hover-color: #bfdbfe;
+  --masthead-toggle-underline-bg: #bfdbfe;
+  --masthead-toggle-focus-shadow: rgba(96, 165, 250, 0.45);
+
+  .masthead__actions {
+    color: #e2e8f0;
+  }
+
+  .masthead__actions .toggle-button,
+  .masthead__menu-item--toggle .toggle-button {
+    color: #e2e8f0;
+
+    &:hover,
+    &:focus-visible {
+      color: var(--masthead-toggle-hover-color);
+    }
+  }
+
+  .toggle-button--theme {
+    .toggle-button__icon--sun {
+      display: none;
+    }
+
+    .toggle-button__icon--moon {
+      display: inline-flex;
+    }
+  }
+}
+
+
+@media (max-width: 640px) {
+  .masthead__inner-wrap {
+    gap: 0.5rem;
+  }
+
+  .masthead__actions {
+    gap: 0.5rem;
+  }
+}
+
+

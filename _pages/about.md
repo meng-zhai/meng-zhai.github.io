@@ -1,24 +1,161 @@
 ---
-layout: archive
 permalink: /
-title: "Meng Zhai / 翟猛"
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently working towards the Ph.D. degree in Artificial Intelligence, with the Institute of Robotics and Automatic Information Systems (IRAIS), [College of Artificial Intelligence](https://ai.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/main.htm), Tianjin, China, and also with the Institute of Intelligence Technology and Robotic Systems, [Shenzhen Research Institute of Nankai University](https://nkszri.nankai.edu.cn/), Shenzhen, China. Our academic team is led by **Prof. Yongchun Fang（方勇纯）** (Changjiang Scholar, Distinguished Young Scholar of the National Natural Science Foundation of China (NSFC), Vice President of Nankai University). I am very fortunate to be supervised by **Prof. Ning Sun（孙宁）**at the [Underactuated Robots Lab](https://url.nankai.edu.cn/). Previously, I received the B.S. degree in Automation from [Jilin University](https://www.jlu.edu.cn/), Changchun, China, in 2021.
+<span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
 
-**Research Interests:** <span style="color: red;">My research focuses on underactuated mechatronic/robotic systems and suspended micro-low gravity simulation systems, with equal emphasis on theory and application.</span> I am particularly interested in developing innovative planning and nonlinear/intelligent control strategies to address the challenges posed by robots with underactuation (fewer independent control inputs than system degrees of freedom) and complex dynamics. Additionally, I work on suspended systems that simulate micro-low gravity environments, enabling the testing and validation of space robotics and other applications in a controlled setting. My goal is to advance the capabilities of these systems through efficient and robust algorithms that enhance their performance, adaptability, intelligence, and autonomy.
 
-<span style="color: red;">I am leading an NSFC Youth Student Basic Research Project (for Ph.D. students) / 国家自然科学基金青年学生基础研究项目（博士研究生）</span>entitled "Research on Variable Tension and Follow-Up Control of Suspension Systems Under Micro-Low Gravity Simulation Scenario".
+<span class='anchor' id='-experiences'></span>
+{% include_relative includes/exp.md %}
 
-For further details, please refer to my [Business Card](../files/Business_Card.jpg) and download my [Curriculum Vitae](../files/CV_MengZhai（2026.02）.pdf). I look forward to potential collaborations and academic discussions.
 
-<!-- **Future Opportunities:** I am open to potential academic and industry job opportunities following my graduation in June 2026. You can find my business card from [Business Card](../files/Business_Card.jpg), and download my resume from [Resume](../files/Resume_MengZhai（2026.02）.pdf). Please feel free to contact me. -->
+<span class='anchor' id='-education'></span>
+{% include_relative includes/edu.md %}
 
-Email: [zhaim@mail.nankai.edu.cn](mailto:zhaim@mail.nankai.edu.cn); [tangshi2026@gmail.com](mailto:tangshi2026@gmail.com)
 
---------
+<span class='anchor' id='-news'></span>
+{% include_relative includes/news.md limit=5 show_button=true %}
+
+
+<p class="news-actions">
+  <a class="btn" href="{{ '/news/' | relative_url }}">
+    <span data-lang="en">-- Read More News --</span>
+    <span data-lang="zh" hidden>-- 查看更多消息 --</span>
+  </a>
+</p>
+
+
+<span class='anchor' id='-projects'></span>
+{% include_relative includes/projects.md %}
+
+
+<span class='anchor' id='-publications'></span>
+# <span data-lang="en">📚 Selected Publications</span><span data-lang="zh" hidden>📚 代表性成果</span>
+
+<span data-lang="en">Explore the full list of publications on the **[Publications](/publications/)** page.</span>
+<span data-lang="zh" hidden>点击 **[出版物](/publications/)** 查看完整列表。</span>
+
+<link rel="stylesheet" href="{{ '/assets/css/pub_styles.css' | relative_url }}">
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+
+  <img src="{{ '/images/papers/zhaiExtendedKalmanFilteringBased2025.jpg' | relative_url }}" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance </p>
+    <p class="authors"> <b>Meng Zhai</b>, Tong Yang, Qingxiang Wu, Shudong Guo, Ruiping Pang, and Ning Sun </p>
+    <p class="journal"> <b><span style="color:#224B8D">IEEE Transactions on Cybernetics</span></b>, vol. 55, no. 1, pp. 369-382, Jan. 2025 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633">Paper</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="/images/papers/zhaiUnderactuatedMechanicalSystems2023.jpg" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Underactuated mechanical systems with both actuator and actuated/unactuated state constraints: A predictive control-based approach </p>
+    <p class="authors"> <b>Meng Zhai</b>, Ning Sun, Tong Yang, and Yongchun Fang </p>
+    <p class="journal"> <b><span style="color:#224B8D">IEEE/ASME Transactions on Mechatronics</span></b>, vol. 28, no. 3, pp. 1359-1371, June 2023 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10001761">Paper</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="/images/papers/zhaiAdaptiveNeuralNetwork2025.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Adaptive neural network unified control for general MIMO underactuated mechatronic systems with disturbances via modified normal forms </p>
+    <p class="authors"> <b>Meng Zhai</b>, Tong Yang, Ming Li, Xuerui Jiao, Yongchun Fang, and Ning Sun </p>
+    <p class="journal"> <b><span style="color:#224B8D">IEEE Transactions on Automation Science and Engineering</span></b>, vol. 22, pp. 19377-19391, 2025 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/11099087">Paper</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="/images/papers/zhaiAdaptiveFuzzyControl2025.jpg" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Adaptive fuzzy control for underactuated robot systems with inaccurate actuated states and unavailable unactuated states </p>
+    <p class="authors"> <b>Meng Zhai</b>, Shuzhen Diao, Tong Yang, Qingxiang Wu, Yongchun Fang, and Ning Sun </p>
+    <p class="journal"> <b><span style="color:#224B8D">IEEE Transactions on Automation Science and Engineering</span></b>, vol. 22, pp. 1566-1578, 2025 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10445242/?arnumber=10445242">Paper</a>] </p>
+  </div>
+</div>
+
+
+<span class='anchor' id='-patents'></span>
+# <span data-lang="en">📃 Selected Patents</span><span data-lang="zh" hidden>📃 部分专利</span>
+
+- <span data-lang="en">Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering, <strong>China Invention Patent</strong>, Patent No.: ZL202410176342.2, granted.</span>
+  <span data-lang="zh" hidden>基于扩展卡尔曼滤波的吊车系统非线性模型预测控制算法，<strong>中国发明专利</strong>，专利号：ZL202410176342.2，已授权。</span>
+
+- <span data-lang="en">A crane control method, system, medium, device, and product, <strong>China Invention Patent</strong>, Patent No.: ZL202410674477.1, granted.</span>
+  <span data-lang="zh" hidden>一种起重机控制方法、系统、介质、设备及产品，<strong>中国发明专利</strong>，专利号：ZL202410674477.1，已授权。</span>
+
+- <span data-lang="en">A device and method for measuring eddy current braking law based on radial magnetic field, <strong>China Invention Patent</strong>, Patent No.: ZL202010547822.7, granted.</span>
+  <span data-lang="zh" hidden>一种基于径向磁场的涡流制动规律测定装置及测定方法，<strong>中国发明专利</strong>，专利号：ZL202010547822.7，已授权。</span>
+
+<p class="news-actions">
+  <a class="btn" href="{{ '/patents/' | relative_url }}">
+    <span data-lang="en">-- View All Patents --</span>
+    <span data-lang="zh" hidden>-- 查看全部专利 --</span>
+  </a>
+</p>
+
+
+<span class='anchor' id='-awards'></span>
+# <span data-lang="en">🎖 Selected Awards/Honors</span><span data-lang="zh" hidden>🎖 代表性荣誉/奖励</span>
+
+- <span data-lang="en">2026, <strong><span style="color:#f09f00">Best Paper Award</span></strong>, The 2026 IEEE 7th International Conference on Artificial Intelligence and Electromechanical Automation (IEEE-AIEA 2026)</span> <span data-lang="zh" hidden>2026年，第七届IEEE人工智能与机电自动化国际学术会议 (IEEE-AIEA 2026) <strong><span style="color:#f09f00">最佳论文奖</span></strong></span>
+- <span data-lang="en">2025, <strong><span style="color:#f09f00">Excellent Articles</span></strong>, The 1st Conference on Systems Engineering and Electronics</span> <span data-lang="zh" hidden>2025年，首届系统工程与电子技术大会<strong><span style="color:#f09f00">优秀论文</span></strong></span>
+- <span data-lang="en">2025, <strong><span style="color:#f09f00">Best Paper Award</span></strong>, The 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025)</span> <span data-lang="zh" hidden>2026年，机电一体化、机器人与人工智能学术会议 (MRAI 2025) <strong><span style="color:#f09f00">最佳论文奖</span></strong></span>
+- <span data-lang="en">2025, <strong><span style="color:#f09f00">National Scholarship</span></strong> for Doctoral Students, Nankai University</span> <span data-lang="zh" hidden>2025年，南开大学博士生<strong><span style="color:#f09f00">国家奖学金</span></strong></span>
+- <span data-lang="en">2023, <strong><span style="color:#f09f00">Best Poster Paper Award</span></strong>, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023)</span> <span data-lang="zh" hidden>2023年，第七届全国集群智能与协同控制大会 (CCSICC 2023) <strong><span style="color:#f09f00">最佳张贴论文奖</span></strong></span>
+
+<p class="news-actions">
+  <a class="btn" href="{{ '/awards/' | relative_url }}">
+    <span data-lang="en">-- View All Awards/Honors --</span>
+    <span data-lang="zh" hidden>-- 查看全部荣誉/奖励 --</span>
+  </a>
+</p>
+
+
+<span class='anchor' id='-academic-services'></span>
+# <span data-lang="en">🧑🏻‍💻 Academic Services</span><span data-lang="zh" hidden>🧑🏻‍💻 学术服务</span>
+
+- <span data-lang="en"><strong>Member</strong>: Chinese Association for Automation (CAA)</span>
+  <span data-lang="zh" hidden><strong>会员</strong>：中国自动化学会 (CAA)</span>
+
+- <span data-lang="en"><strong>Member</strong>: Tianjin Robotics Society (TRS)</span>
+  <span data-lang="zh" hidden><strong>会员</strong>：天津市机器人学会 (TRS)</span>
+
+- <span data-lang="en"><strong>Reviewer</strong> for IEEE TIE, IEEE TCYB, IEEE TSMC-S, IEEE RA-L, IEEE Systems Journal, Nonlinear Dynamics, ICRA, ACC, CDC, etc.</span>
+  <span data-lang="zh" hidden><strong>审稿人</strong>：IEEE TIE、IEEE TCYB、IEEE TSMC-S、IEEE RA-L、IEEE Systems Journal、Nonlinear Dynamics、ICRA、ACC、CDC 等</span>
+
+
+<p class="news-actions">
+  <a class="btn" href="{{ '/services/' | relative_url }}">
+    <span data-lang="en">-- Explore All Services --</span>
+    <span data-lang="zh" hidden>-- 查看更多学术服务 --</span>
+  </a>
+</p>
+
 
