@@ -104,14 +104,14 @@ redirect_from:
 <span class='anchor' id='-patents'></span>
 # <span data-lang="en">📃 Selected Patents</span><span data-lang="zh" hidden>📃 部分专利</span>
 
-- <span data-lang="en">Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering, <strong>China Invention Patent</strong>, Patent No.: ZL202410176342.2, granted.</span>
-  <span data-lang="zh" hidden>基于扩展卡尔曼滤波的吊车系统非线性模型预测控制算法，<strong>中国发明专利</strong>，专利号：ZL202410176342.2，已授权。</span>
+- <span data-lang="en">Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering, <strong>China Invention Patent</strong>, Patent No.: ZL202410176342.2, <strong>granted</strong>.</span>
+  <span data-lang="zh" hidden>基于扩展卡尔曼滤波的吊车系统非线性模型预测控制算法，<strong>中国发明专利</strong>，专利号：ZL202410176342.2，<strong>已授权</strong>。</span>
 
-- <span data-lang="en">A crane control method, system, medium, device, and product, <strong>China Invention Patent</strong>, Patent No.: ZL202410674477.1, granted.</span>
-  <span data-lang="zh" hidden>一种起重机控制方法、系统、介质、设备及产品，<strong>中国发明专利</strong>，专利号：ZL202410674477.1，已授权。</span>
+- <span data-lang="en">A crane control method, system, medium, device, and product, <strong>China Invention Patent</strong>, Patent No.: ZL202410674477.1, <strong>granted</strong>.</span>
+  <span data-lang="zh" hidden>一种起重机控制方法、系统、介质、设备及产品，<strong>中国发明专利</strong>，专利号：ZL202410674477.1，<strong>已授权</strong>。</span>
 
-- <span data-lang="en">A device and method for measuring eddy current braking law based on radial magnetic field, <strong>China Invention Patent</strong>, Patent No.: ZL202010547822.7, granted.</span>
-  <span data-lang="zh" hidden>一种基于径向磁场的涡流制动规律测定装置及测定方法，<strong>中国发明专利</strong>，专利号：ZL202010547822.7，已授权。</span>
+- <span data-lang="en">A device and method for measuring eddy current braking law based on radial magnetic field, <strong>China Invention Patent</strong>, Patent No.: ZL202010547822.7, <strong>granted</strong>.</span>
+  <span data-lang="zh" hidden>一种基于径向磁场的涡流制动规律测定装置及测定方法，<strong>中国发明专利</strong>，专利号：ZL202010547822.7，<strong>已授权</strong>。</span>
 
 <p class="news-actions">
   <a class="btn" href="{{ '/patents/' | relative_url }}">

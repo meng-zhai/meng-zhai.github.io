@@ -27,8 +27,13 @@
   </li>
 
   <li>
-    <span data-lang="en">2025, <strong><span style="color:#f09f00">National Scholarship for Doctoral Students</span></strong> and BYD Scholarship [<a href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photo</a>], Nankai University</span>
-    <span data-lang="zh" hidden>2025年，南开大学博士研究生<strong><span style="color:#f09f00">国家奖学金</span></strong>、比亚迪奖学金 [<a href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
+    <span data-lang="en">2025, <strong><span style="color:#f09f00">National Scholarship for Doctoral Students</span></strong>, Nankai University</span>
+    <span data-lang="zh" hidden>2025年，南开大学博士研究生<strong><span style="color:#f09f00">国家奖学金</span></strong></span>
+  </li>
+
+  <li>
+    <span data-lang="en">2025, BYD Scholarship for doctoral students[<a href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photo</a>], Nankai University</span>
+    <span data-lang="zh" hidden>2025年，南开大学博士研究生比亚迪奖学金 [<a href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
   </li>
 
   <li>

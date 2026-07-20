@@ -19,8 +19,8 @@
           Research Areas: Underactuated mechatronic/robotic systems; Suspended micro-low gravity simulation systems; Planning and nonlinear/intelligent control
         </div>
         <div class="cv-main" data-lang="zh" hidden>
-          <span class="cv-degree">博士</span>（人工智能），
-          <a href="https://www.nankai.edu.cn/main.htm">南开大学</a>，
+          <span class="cv-degree">工学博士</span>（人工智能），
+          <a href="https://www.nankai.edu.cn/main.htm">南开大学</a>（985，双一流），
           <a href="https://ai.nankai.edu.cn/">人工智能学院</a>，
           中国天津
         </div>
@@ -50,8 +50,8 @@
           Ranking: 8/161 (Top 5%) &ensp;&ensp; GPA: 3.79/4.0 
         </div>
         <div class="cv-main" data-lang="zh" hidden>
-          <span class="cv-degree">学士</span>（自动化），
-          <a href="http://www.hrbust.edu.cn/">吉林大学</a>，
+          <span class="cv-degree">工学学士</span>（自动化），
+          <a href="http://www.hrbust.edu.cn/">吉林大学</a>（985，双一流），
           <a href="https://dce.jlu.edu.cn/index.htm">通信工程学院</a>，中国长春
         </div>
         <div class="cv-sub" data-lang="zh" hidden>
