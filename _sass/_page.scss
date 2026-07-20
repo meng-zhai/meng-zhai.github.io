@@ -194,6 +194,39 @@
     }
   }
 
+  .award-photo-button,
+  .paper-link-button {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 0.3rem;
+    padding: 0.12rem 0.55rem;
+    border: 1px solid rgba($primary-color, 0.45);
+    border-radius: 0.4rem;
+    background-color: rgba($primary-color, 0.08);
+    color: $primary-color !important;
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none !important;
+    vertical-align: 0.05em;
+    transition: background-color 0.2s ease, border-color 0.2s ease,
+      color 0.2s ease, transform 0.2s ease;
+
+    &:hover,
+    &:focus-visible {
+      border-color: $primary-color;
+      background-color: $primary-color;
+      color: #fff !important;
+      text-decoration: none;
+      transform: translateY(-1px);
+    }
+
+    &:focus-visible {
+      outline: 2px solid rgba($primary-color, 0.3);
+      outline-offset: 2px;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

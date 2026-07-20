@@ -12,18 +12,18 @@
   </li>
 
   <li>
-    <span data-lang="en">2025, <strong><span style="color:#f09f00">Best Paper Award</span></strong>, The 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025) [<a href="{{ '/images/activities/MRAI-2025最佳论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a>]</span>
-    <span data-lang="zh" hidden>2025年，机电一体化、机器人与人工智能国际学术会议 (MRAI 2025) <strong><span style="color:#f09f00">最佳论文奖</span></strong> [<a href="{{ '/images/activities/MRAI-2025最佳论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
+    <span data-lang="en">2025, <strong><span style="color:#f09f00">Best Paper Award</span></strong>, The 2025 International Conference on Mechatronics, Robotics, and Artificial Intelligence (MRAI 2025) <a class="award-photo-button" href="{{ '/images/activities/MRAI-2025最佳论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a></span>
+    <span data-lang="zh" hidden>2025年，机电一体化、机器人与人工智能国际学术会议 (MRAI 2025) <strong><span style="color:#f09f00">最佳论文奖</span></strong> <a class="award-photo-button" href="{{ '/images/activities/MRAI-2025最佳论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a></span>
   </li>
 
   <li>
-    <span data-lang="en">2023, <strong><span style="color:#f09f00">Best Poster Paper Award</span></strong>, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) [<a href="{{ '/images/activities/CCSICC-2023最佳张贴论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a>]</span>
-    <span data-lang="zh" hidden>2023年，第七届全国集群智能与协同控制大会（CCSICC 2023）<strong><span style="color:#f09f00">最佳张贴论文奖</span></strong> [<a href="{{ '/images/activities/CCSICC-2023最佳张贴论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
+    <span data-lang="en">2023, <strong><span style="color:#f09f00">Best Poster Paper Award</span></strong>, The 7th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2023) <a class="award-photo-button" href="{{ '/images/activities/CCSICC-2023最佳张贴论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a></span>
+    <span data-lang="zh" hidden>2023年，第七届全国集群智能与协同控制大会（CCSICC 2023）<strong><span style="color:#f09f00">最佳张贴论文奖</span></strong> <a class="award-photo-button" href="{{ '/images/activities/CCSICC-2023最佳张贴论文奖.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a></span>
   </li>
 
   <li>
-    <span data-lang="en">2025, The 3rd Autonomous Robotic Technology Seminar (ARTS 2025) Scholarship Nomination Award (8 candidates worldwide each year) [<a href="{{ '/images/activities/ARTS-2025奖学金提名奖.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a>]</span>
-    <span data-lang="zh" hidden>2025年，第三届自主机器人技术研讨会 (ARTS 2025) 奖学金提名奖（全球每年8名候选人）[<a href="{{ '/images/activities/ARTS-2025奖学金提名奖.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
+    <span data-lang="en">2025, The 3rd Autonomous Robotic Technology Seminar (ARTS 2025) Scholarship Nomination Award (8 candidates worldwide each year) <a class="award-photo-button" href="{{ '/images/activities/ARTS-2025奖学金提名奖.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a></span>
+    <span data-lang="zh" hidden>2025年，第三届自主机器人技术研讨会 (ARTS 2025) 奖学金提名奖（全球每年8名候选人）<a class="award-photo-button" href="{{ '/images/activities/ARTS-2025奖学金提名奖.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a></span>
   </li>
 
   <li>
@@ -32,8 +32,8 @@
   </li>
 
   <li>
-    <span data-lang="en">2025, BYD Scholarship for doctoral students[<a href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photo</a>], Nankai University</span>
-    <span data-lang="zh" hidden>2025年，南开大学博士研究生比亚迪奖学金 [<a href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
+    <span data-lang="en">2025, BYD Scholarship for doctoral students <a class="award-photo-button" href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a>, Nankai University</span>
+    <span data-lang="zh" hidden>2025年，南开大学博士研究生比亚迪奖学金 <a class="award-photo-button" href="{{ '/images/activities/BYD奖学金.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a></span>
   </li>
 
   <li>
@@ -47,8 +47,8 @@
   </li>
 
   <li>
-    <span data-lang="en">2025, Third Place in Men’s Doubles, Mixed Doubles, and Team Events, Badminton Tournament of the Institute of Robotics & Automatic Information Systems, Nankai University [<a href="{{ '/images/activities/IRAIS-2025羽毛球赛.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a>]</span>
-    <span data-lang="zh" hidden>2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 [<a href="{{ '/images/activities/IRAIS-2025羽毛球赛.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a>]</span>
+    <span data-lang="en">2025, Third Place in Men’s Doubles, Mixed Doubles, and Team Events, Badminton Tournament of the Institute of Robotics & Automatic Information Systems, Nankai University <a class="award-photo-button" href="{{ '/images/activities/IRAIS-2025羽毛球赛.jpg' | relative_url }}" target="_blank" rel="noopener">Souvenir photos</a></span>
+    <span data-lang="zh" hidden>2025年，南开大学机器人与信息自动化研究所羽毛球赛 男子双打、混合双打、团体赛 季军 <a class="award-photo-button" href="{{ '/images/activities/IRAIS-2025羽毛球赛.jpg' | relative_url }}" target="_blank" rel="noopener">留影</a></span>
   </li>
 
   <li>
