@@ -12,5 +12,3 @@ local/
 !.env.example
 push.sh
 .DS_Store
-_pages/.DS_Store
-assets/.DS_Store
