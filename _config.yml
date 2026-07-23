@@ -80,6 +80,7 @@ google_maps:
 # Reading Files
 include:
   - .htaccess
+  - .well-known
   - _pages
   - files
 exclude:
