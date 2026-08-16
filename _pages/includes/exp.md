@@ -24,7 +24,7 @@
           <a href="https://www.polyu.edu.hk/rclae/">低空经济研究中心（RCLAE）</a>，中国香港
         </div>
         <div class="cv-sub" data-lang="zh" hidden>
-          合作导师：<a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ"><b>陈文华教授</b></a>（IEEE Fellow、IMechE Fellow、IET Fellow、HEA Fellow）
+          合作导师：<a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ"><b>陈文华</b></a> 教授（IEEE Fellow、IMechE Fellow、IET Fellow、HEA Fellow）
         </div>
         <div class="cv-sub" data-lang="zh" hidden>
           研究方向：旋翼无人机自主安全降落；主动学习控制
