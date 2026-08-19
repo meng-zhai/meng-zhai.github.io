@@ -6,7 +6,7 @@
   <a href="https://www.polyu.edu.hk/aae/">Department of Aeronautical and Aviation Engineering</a>,
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>, working with Prof.
   <a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ">Wen-Hua Chen</a>.
-  My research focuses on <span style="color: red;">autonomous safe emergency landing for UAVs</span>, as well as control and optimization of<span style="color: red;">underactuated mechatronic/robotic systems</span>, with equal emphasis on theory and application. 
+  My research focuses on <span style="color: red;">autonomous safe emergency landing for UAVs</span>, as well as control and optimization of <span style="color: red;">underactuated mechatronic/robotic systems</span>, with equal emphasis on theory and application. 
   Previously, I received the Ph.D. degree in Artificial Intelligence (with honors) from 
   <a href="https://www.nankai.edu.cn/main.htm">Nankai University</a>, 
   Tianjin, China, in June 2026, under the supervision of Prof. 
