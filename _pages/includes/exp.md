@@ -16,7 +16,7 @@
           Co-supervisor: Chair Professor <a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ"><b>Wen-Hua Chen</b></a> (Fellow of IEEE, IMechE, IET, HEA)
         </div>
         <div class="cv-sub" data-lang="en">
-          Research Areas: Autonomous safe landing of rotorcraft UAVs; Active learning control
+          Research Areas: Autonomous safe emergency landing for UAVs; Active learning control
         </div>
         <div class="cv-main" data-lang="zh" hidden>
           <span class="cv-role">博士后研究员</span>，<a href="https://www.polyu.edu.hk/">香港理工大学（PolyU）</a>，
@@ -27,7 +27,7 @@
           合作导师：<a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ"><b>陈文华</b></a> 教授（IEEE Fellow、IMechE Fellow、IET Fellow、HEA Fellow）
         </div>
         <div class="cv-sub" data-lang="zh" hidden>
-          研究方向：旋翼无人机自主安全降落；主动学习控制
+          研究方向：无人机自主应急安全降落；主动学习控制
         </div>
       </div>
       <div class="cv-date">08/2026–Present</div>

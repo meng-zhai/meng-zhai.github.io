@@ -6,7 +6,7 @@
   <a href="https://www.polyu.edu.hk/aae/">Department of Aeronautical and Aviation Engineering</a>,
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>, working with Prof.
   <a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ">Wen-Hua Chen</a>.
-  My research focuses on <span style="color: red;">autonomous safe landing of rotorcraft UAVs</span>, as well as control and optimization of<span style="color: red;">underactuated mechatronic/robotic systems</span>, with equal emphasis on theory and application. 
+  My research focuses on <span style="color: red;">autonomous safe emergency landing for UAVs</span>, as well as control and optimization of<span style="color: red;">underactuated mechatronic/robotic systems</span>, with equal emphasis on theory and application. 
   Previously, I received the Ph.D. degree in Artificial Intelligence (with honors) from 
   <a href="https://www.nankai.edu.cn/main.htm">Nankai University</a>, 
   Tianjin, China, in June 2026, under the supervision of Prof. 
@@ -17,7 +17,7 @@
   Changchun, China, in June 2021.
 </p>
 <p data-lang="zh" hidden>
-  目前，我在<a href="https://www.polyu.edu.hk/rclae/">香港理工大学低空经济研究中心</a>、<a href="https://www.polyu.edu.hk/aae/">航空及民航工程学系</a>担任博士后研究员，合作导师为<a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ">陈文华</a>教授。我的研究聚焦于<span style="color: red;">旋翼无人机的自主安全降落</span>，以及<span style="color: red;">欠驱动机电/机器人系统</span>的控制、优化问题，理论与应用并重。此前，我于2026年6月在<a href="https://www.nankai.edu.cn/main.htm">南开大学</a>获得人工智能专业博士学位，师从<a href="https://ai.nankai.edu.cn/info/1033/5214.htm">孙宁</a>教授，并在国内领先的<a href="https://url.nankai.edu.cn/">欠驱动机器人实验室</a>开展研究工作。此外，我于2021年6月在<a href="https://www.jlu.edu.cn/">吉林大学</a>获得自动化专业学士学位。
+  目前，我在<a href="https://www.polyu.edu.hk/rclae/">香港理工大学低空经济研究中心</a>、<a href="https://www.polyu.edu.hk/aae/">航空及民航工程学系</a>担任博士后研究员，合作导师为<a href="https://scholar.google.com/citations?user=UfIb9GkAAAAJ">陈文华</a>教授。我的研究聚焦于<span style="color: red;">无人机自主应急安全降落</span>，以及<span style="color: red;">欠驱动机电/机器人系统</span>的控制、优化问题，理论与应用并重。此前，我于2026年6月在<a href="https://www.nankai.edu.cn/main.htm">南开大学</a>获得人工智能专业博士学位，师从<a href="https://ai.nankai.edu.cn/info/1033/5214.htm">孙宁</a>教授，并在国内领先的<a href="https://url.nankai.edu.cn/">欠驱动机器人实验室</a>开展研究工作。此外，我于2021年6月在<a href="https://www.jlu.edu.cn/">吉林大学</a>获得自动化专业学士学位。
 </p>
 
 <p data-lang="en">
