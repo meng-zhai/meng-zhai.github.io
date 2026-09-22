@@ -48,7 +48,7 @@ redirect_from:
   <!-- Left side: GIF -->
   <div class="gif-container">
 
-  <img src="{{ '/images/papers/zhaiExtendedKalmanFilteringBased2025.jpg' | relative_url }}" alt="GIF Description" class="paper-gif">
+  <img src="{{ '/images/papers/zhaiExtendedKalmanFilteringBased2025.jpg' | relative_url }}" alt="Visualization of extended Kalman filtering-based nonlinear model predictive control" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -62,7 +62,7 @@ redirect_from:
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="/images/papers/zhaiUnderactuatedMechanicalSystems2023.jpg" alt="GIF Description" class="paper-gif">
+    <img src="/images/papers/zhaiUnderactuatedMechanicalSystems2023.jpg" alt="Visualization of predictive control for constrained underactuated mechanical systems" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -76,7 +76,7 @@ redirect_from:
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="/images/papers/zhaiAdaptiveNeuralNetwork2025.gif" alt="GIF Description" class="paper-gif">
+    <img src="/images/papers/zhaiAdaptiveNeuralNetwork2025.gif" alt="Animation of adaptive neural network unified control for underactuated systems" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -90,7 +90,7 @@ redirect_from:
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="/images/papers/zhaiAdaptiveFuzzyControl2025.jpg" alt="GIF Description" class="paper-gif">
+    <img src="/images/papers/zhaiAdaptiveFuzzyControl2025.jpg" alt="Visualization of adaptive fuzzy control for underactuated robot systems" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
