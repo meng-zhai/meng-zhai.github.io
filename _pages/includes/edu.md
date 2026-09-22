@@ -51,7 +51,7 @@
         </div>
         <div class="cv-main" data-lang="zh" hidden>
           <span class="cv-degree">工学学士</span>（自动化），
-          <a href="http://www.hrbust.edu.cn/">吉林大学</a>（985，双一流），
+          <a href="https://www.jlu.edu.cn/">吉林大学</a>（985，双一流），
           <a href="https://dce.jlu.edu.cn/index.htm">通信工程学院</a>，中国长春
         </div>
         <div class="cv-sub" data-lang="zh" hidden>

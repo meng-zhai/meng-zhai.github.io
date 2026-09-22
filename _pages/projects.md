@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /projects/
-title: "News"
+title: "Projects"
 author_profile: true
 hide_author_maps_on_mobile: true
 ---

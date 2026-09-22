@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /patents/
-title: "News"
+title: "Patents"
 author_profile: true
 hide_author_maps_on_mobile: true
 ---

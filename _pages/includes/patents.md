@@ -1,6 +1,6 @@
 # <span data-lang="en">📃 Patents</span><span data-lang="zh" hidden>📃 专利</span>
 
-- <span data-lang="en">A control method and system for a suspended horizontal follow-up system based on equivalent input disturbance, <strong>China Invention Patent</strong>, Application No.: ZL202510590519.8, <strong>granted</strong>.</span>
+- <span data-lang="en">A control method and system for a suspended horizontal follow-up system based on equivalent input disturbance, <strong>China Invention Patent</strong>, Patent No.: ZL202510590519.8, <strong>granted</strong>.</span>
   <span data-lang="zh" hidden>基于等效输入干扰的悬吊式水平随动系统控制方法及系统，<strong>中国发明专利</strong>，专利号：ZL202510590519.8，<strong>已授权</strong>。</span>
 
 - <span data-lang="en">Nonlinear model predictive control algorithm for crane systems based on extended Kalman filtering, <strong>China Invention Patent</strong>, Patent No.: ZL202410176342.2, <strong>granted</strong>.</span>
